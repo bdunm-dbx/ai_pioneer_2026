@@ -191,6 +191,7 @@ def main(spark):
     """Main setup function for AI Pioneer lab."""
     catalog = "ai_pioneer"
     schema = "lab_data"
+    attendee_schema = "attendee_experiment"
     endpoint_name = "ai_pioneer_vs_endpoint"
     
     # Determine data folder path from notebook location
@@ -213,6 +214,7 @@ def main(spark):
 
     # Step 1: Create catalog and schema
     create_catalog_and_schema(spark, catalog, schema)
+    create_catalog_and_schema(spark, catalog, attendee_schema)
 
     # Step 2: Load CSV files into Delta tables
     for tbl, file_path in csv_files.items():
@@ -298,4 +300,25 @@ if __name__ == "__main__":
 
 # COMMAND ----------
 
+# DBTITLE 1,Grants on catalog/schema
+# MAGIC %sql
+# MAGIC -- Admin permissions
+# MAGIC GRANT ALL PRIVILEGES ON CATALOG ai_pioneer TO `workshop_admins`;
+# MAGIC GRANT MANAGE ON CATALOG ai_pioneer TO `workshop_admins`;
+# MAGIC
+# MAGIC -- Attendee permissions
+# MAGIC GRANT USE CATALOG ON CATALOG ai_pioneer TO `workshop_users`;
+# MAGIC
+# MAGIC -- Lab data schema
+# MAGIC GRANT USE SCHEMA ON SCHEMA ai_pioneer.lab_data TO `workshop_users`;
+# MAGIC GRANT READ VOLUME ON SCHEMA ai_pioneer.lab_data TO `workshop_users`; 
+# MAGIC GRANT SELECT ON SCHEMA ai_pioneer.lab_data TO `workshop_users`;
+# MAGIC GRANT EXECUTE ON SCHEMA ai_pioneer.lab_data TO `workshop_users`;
+# MAGIC
+# MAGIC -- Experimentation schema for attendees
+# MAGIC GRANT ALL PRIVILEGES ON SCHEMA ai_pioneer.attendee_experiment TO `workshop_users`;
 
+# COMMAND ----------
+
+# DBTITLE 1,Permissions on VS endpoint
+# Set manually using UI access lists
