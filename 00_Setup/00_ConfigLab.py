@@ -99,7 +99,7 @@ def enable_cdf(spark, catalog: str, schema: str, table: str):
         logger.warning(f"Could not enable CDF on {full_name}: {e}")
 
 def ensure_endpoint(client: VectorSearchClient, endpoint_name: str,
-                    timeout: int = 600, poll_interval: int = 10):
+                    timeout: int = 1200, poll_interval: int = 20):
     """Create vector search endpoint if needed and wait for it to be ready."""
     try:
         eps = client.list_endpoints().get("endpoints", [])
