@@ -1,0 +1,68 @@
+Call ID: CALL-2024-011
+Date: 2024-12-04 11:05:00
+Duration: 6 minutes 30 seconds
+Agent ID: AGT-1544
+Customer ID: CUS-10567
+Call Type: Add Line to Family Plan
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning! This is Nicole. How may I assist you?
+
+Customer: Hi, I need to add another line to my family plan for my daughter. She just turned 16 and we're getting her a phone.
+
+Agent: Congratulations to your daughter! I'd be happy to help you add a line. Can I get your account number?
+
+Customer: It's 555-9876.
+
+Agent: Thank you. Let me pull up your account... I see you currently have a Family Plan with 3 lines. Adding a fourth line would be $30 per month. Does that work for your budget?
+
+Customer: Yes, that's fine. What do I need to do?
+
+Agent: First, does your daughter already have a phone, or will you need to purchase one?
+
+Customer: We're getting her a phone for Christmas next week. It's an iPhone 13 we bought from the Apple Store.
+
+Agent: Perfect. Is that phone unlocked or locked to a specific carrier?
+
+Customer: It's unlocked.
+
+Agent: Great! That makes this easy. I can add the line to your account right now and have a SIM card shipped to you. When you're ready to activate the phone, you just insert the SIM card and follow the setup instructions.
+
+Customer: How long does shipping take?
+
+Agent: 2-3 business days with standard shipping, or I can expedite it for next-day delivery for $15 extra if you need it sooner.
+
+Customer: Standard is fine. We're not giving it to her until Christmas anyway.
+
+Agent: Perfect. I'm adding the fourth line now... Done! The new line will be active as soon as you insert and activate the SIM card. Do you want the same data plan features for this line?
+
+Customer: What do I have on my other lines?
+
+Agent: You're on the Unlimited Family plan, so all lines have unlimited data, talk, and text, plus 15GB of hotspot per line.
+
+Customer: Yes, same for her line is fine. Can I set any parental controls or limits?
+
+Agent: Absolutely! Through your online account or our mobile app, you can set screen time limits, block certain numbers, restrict adult content, and monitor usage. I recommend setting those up before you give her the phone.
+
+Customer: That's perfect. What's the phone number for her new line?
+
+Agent: Her number will be 555-2109. I'm sending you a confirmation email right now with all the details, including instructions for activating the SIM card and setting up parental controls.
+
+Customer: Excellent! Thank you so much, Nicole!
+
+Agent: You're welcome! Merry early Christmas to your daughter!
+
+---
+CALL SUMMARY:
+---
+Issue: Add fourth line to family plan for teenage daughter
+Resolution: Added new line ($30/month), ordered SIM card, assigned new number (555-2109)
+Device: Unlocked iPhone 13 (customer purchased separately)
+Features: Same unlimited plan as other lines, parental controls available
+Customer Satisfaction: High
+Follow-up Required: SIM card arrival in 2-3 business days, customer to activate when ready
+

@@ -1,0 +1,75 @@
+Call ID: CALL-2024-009
+Date: 2024-12-02 13:50:00
+Duration: 10 minutes 05 seconds
+Agent ID: AGT-2674
+Customer ID: CUS-10778
+Call Type: Device Trade-In
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Rachel. How may I assist you today?
+
+Customer: Hi Rachel, I want to trade in my old phone for credit toward a new one. How does that work?
+
+Agent: I'd be happy to help you with that! Our trade-in program is pretty straightforward. First, can I get your phone number?
+
+Customer: It's 555-3210.
+
+Agent: Thank you. What device are you looking to trade in?
+
+Customer: I have an iPhone 12 Pro, 128GB. It's in pretty good condition, just some light scratches on the back.
+
+Agent: Okay, great. And are you looking to get a specific new phone?
+
+Customer: I'm interested in the new iPhone 15 Pro.
+
+Agent: Excellent choice! Let me check the trade-in value for your iPhone 12 Pro... Based on the model and condition you described, your trade-in value would be up to $400, depending on the final assessment.
+
+Customer: What do you mean "up to"? How is it assessed?
+
+Agent: Good question. The $400 is for a device in good working condition - meaning the screen isn't cracked, it powers on and off normally, buttons work, and there's no water damage. Light scratches on the back are fine. When you send it in, our team will verify the condition. If everything checks out as you described, you'll get the full $400.
+
+Customer: What if they say it's not worth $400?
+
+Agent: If our assessment team finds issues you didn't mention, they'll send you a revised offer via email. You can choose to accept the new offer or have us ship the phone back to you for free. But from what you're describing, I don't anticipate any issues.
+
+Customer: Okay. How does the process work?
+
+Agent: Super simple. I'll start the trade-in process today and email you a prepaid shipping label. You'll have 14 days to ship your iPhone 12 Pro to us. Once we receive it and verify the condition - usually within 3-5 business days - we'll issue the $400 credit to your account.
+
+Customer: Do I have to wait for the credit before I can get the new phone?
+
+Agent: No! That's the best part. I can process the iPhone 15 Pro order today. The trade-in credit will be applied as a bill credit over 24 months - so that's about $16.67 off your bill each month for two years. How do you want to pay for the remaining balance?
+
+Customer: The iPhone 15 Pro is $999, right? So $999 minus $400 is $599. Can I pay that over 24 months too?
+
+Agent: Exactly right! The $599 remaining balance can be financed over 24 months with $0 down, which would be about $25 per month plus the device financing. Your total monthly increase would be around $25, and that includes your bill credits from the trade-in.
+
+Customer: That sounds manageable. What color options do you have?
+
+Agent: The iPhone 15 Pro comes in Natural Titanium, Blue Titanium, White Titanium, and Black Titanium. Which would you prefer?
+
+Customer: I'll go with the Blue Titanium.
+
+Agent: Great choice! Let me get that ordered for you... Done! Your iPhone 15 Pro in Blue Titanium will ship within 2-3 business days. You'll receive a tracking number via text and email. In a separate email, you'll get your trade-in shipping label. Remember, you have 14 days to send in your iPhone 12 Pro.
+
+Customer: Perfect! When I get the new phone, do I just swap the SIM card?
+
+Agent: The iPhone 15 Pro uses eSIM, so no physical SIM card needed. When you set up your new phone, you can transfer your service directly from your old phone. I'll send you setup instructions with your shipping confirmation.
+
+Customer: Awesome. Thank you so much, Rachel!
+
+Agent: You're very welcome! Enjoy your new iPhone!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer wants to trade in iPhone 12 Pro for credit toward iPhone 15 Pro
+Resolution: Processed trade-in ($400 credit) and new device order (iPhone 15 Pro Blue Titanium)
+Financial Details: $999 device - $400 trade-in = $599 financed over 24 months (~$25/month)
+Customer Satisfaction: High
+Follow-up Required: Customer must ship trade-in device within 14 days
+

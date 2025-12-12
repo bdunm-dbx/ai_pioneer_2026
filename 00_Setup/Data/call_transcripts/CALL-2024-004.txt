@@ -1,0 +1,92 @@
+Call ID: CALL-2024-004
+Date: 2024-11-22 11:20:00
+Duration: 15 minutes 10 seconds
+Agent ID: AGT-2889
+Customer ID: CUS-11567
+Call Type: Device Troubleshooting
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning, thank you for calling tech support. This is David. How can I help you?
+
+Customer: Hi David, my Samsung Galaxy S23 won't send or receive text messages. Calls work fine, but texts just aren't going through.
+
+Agent: I'm sorry to hear that. Let's get that fixed for you. Can I get your phone number?
+
+Customer: 555-9012.
+
+Agent: Thank you. When did you first notice this issue?
+
+Customer: It started yesterday afternoon. I thought maybe it was temporary, but it's still not working this morning.
+
+Agent: Okay. Have you tried restarting your phone since the issue started?
+
+Customer: Yes, I've restarted it three times.
+
+Agent: Good. Let me check a few things on my end... Your account and messaging services look active. Let's try some troubleshooting steps. First, can you go into your Messages app settings?
+
+Customer: Okay, I'm there.
+
+Agent: Look for something that says "Chat features" or "RCS messaging." Do you see that?
+
+Customer: Yes, I see "Chat features."
+
+Agent: Can you toggle that off, wait about 10 seconds, then toggle it back on?
+
+Customer: Done. Should I try sending a text now?
+
+Agent: Let's do a few more things first. Go back to your main phone Settings, then Apps.
+
+Customer: Okay, I'm in Apps.
+
+Agent: Find Messages and tap on it. Then go to Storage.
+
+Customer: I see Storage.
+
+Agent: You should see options for "Clear Cache" and "Clear Data." Let's start with Clear Cache.
+
+Customer: Cleared the cache. Nothing happened yet.
+
+Agent: That's normal. Now, before we clear data which will remove your text message settings, let me check something. Go to your phone's notification bar and swipe down. Do you see any notifications about message blocking or RCS?
+
+Customer: Oh! There's a notification that says "Messages for web session expired." Should I click on that?
+
+Agent: Yes! That might be our issue. What happens when you tap it?
+
+Customer: It's asking me to sign in to Messages for web.
+
+Agent: Perfect. I think what happened is your Messages for web session expired, which can sometimes block regular messaging. You can either sign in again, or if you don't use Messages for web, just dismiss this and disable that feature.
+
+Customer: I don't even know what Messages for web is. I just want regular texting to work.
+
+Agent: No problem. In your Messages app, go to Settings, then look for "Device pairing" or "Messages for web" and turn it off.
+
+Customer: Found it! Turning it off now... Oh my god, I just got like 15 texts all at once!
+
+Agent: Excellent! That was definitely the issue. Your messages were being held because of the expired web session. Try sending a test message to someone now.
+
+Customer: Just sent one to my wife... and she replied! It's working!
+
+Agent: Perfect! So to prevent this from happening again, if you ever want to use Messages for web, just make sure you sign out properly when you're done, or keep the sessions active if you use it regularly.
+
+Customer: I honestly didn't even know I had that turned on. Thank you so much, David. You're a lifesaver!
+
+Agent: You're very welcome! Is there anything else I can help you with?
+
+Customer: No, that's it. Thank you again!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: Unable to send or receive SMS/MMS messages on Samsung Galaxy S23
+Root Cause: Expired Messages for web session blocking message delivery
+Resolution: Disabled Messages for web feature, all queued messages delivered
+Troubleshooting Steps: Checked account status, toggled RCS, cleared cache, identified web session issue
+Customer Satisfaction: High
+Follow-up Required: None
+

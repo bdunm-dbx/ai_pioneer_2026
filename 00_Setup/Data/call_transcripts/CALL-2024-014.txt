@@ -1,0 +1,80 @@
+Call ID: CALL-2024-014
+Date: 2024-12-07 15:10:00
+Duration: 9 minutes 25 seconds
+Agent ID: AGT-1788
+Customer ID: CUS-11456
+Call Type: Port Number from Another Carrier
+Resolution Status: In Progress
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Maria. How can I assist you today?
+
+Customer: Hi Maria, I want to switch to your service and bring my phone number with me from my current carrier. How does that work?
+
+Agent: Welcome! I'm excited to help you join us. Bringing your number over is called porting, and it's a pretty straightforward process. First, can you tell me which carrier you're currently with?
+
+Customer: I'm with Verizon right now.
+
+Agent: Okay, great. To port your number, I'll need some information from your Verizon account. Do you have a recent bill handy?
+
+Customer: Let me grab it... Okay, I have it.
+
+Agent: Perfect. I'll need your current phone number, your account number with Verizon, and your account PIN or password.
+
+Customer: My phone number is 555-1357. The account number is... 987654321. And the PIN is 1234.
+
+Agent: Thank you. And just to confirm, are you the primary account holder on the Verizon account?
+
+Customer: Yes, I am.
+
+Agent: Perfect. Now, have you selected a plan with us yet, or would you like me to go over some options?
+
+Customer: I was looking at your website. I think I want the Unlimited Plus plan for $70 a month.
+
+Agent: Excellent choice! That includes unlimited data, talk, and text, 50GB of premium data, 30GB of mobile hotspot, and free international texting. Now, will you be bringing your own device or getting a new phone from us?
+
+Customer: I have an iPhone 14 that I own outright. Can I use that?
+
+Agent: Absolutely! The iPhone 14 works great on our network. I'll just need to verify that it's unlocked. Since you're with Verizon, if your phone is paid off, it should be unlocked. Have you checked?
+
+Customer: How do I check that?
+
+Agent: Go to Settings, then General, then About. Scroll down and look for "Carrier Lock." What does it say?
+
+Customer: It says "No SIM restrictions."
+
+Agent: Perfect! That means your phone is unlocked and ready to go. Now, here's how the porting process works: I'll submit your port request today, which typically completes within 24-48 hours. During that time, keep using your Verizon service normally. Once the port completes, your Verizon service will automatically stop, and your number will be active with us.
+
+Customer: Will I have any downtime without service?
+
+Agent: Usually minimal - often just a few minutes. Most ports complete overnight. We'll send you a SIM card that should arrive in 2-3 days. When it arrives, you'll insert it into your iPhone, and we'll send you a text with instructions to complete the activation.
+
+Customer: What if something goes wrong?
+
+Agent: We'll monitor the port and contact you if there are any issues. The most common problem is incorrect account information, but since we've verified everything, you should be fine. Just make sure you don't cancel your Verizon service yourself - it will cancel automatically when the port completes.
+
+Customer: Okay, that makes sense. What about my current Verizon bill? Will I have to pay for a full month?
+
+Agent: You'll need to pay any outstanding balance with Verizon, and they may charge you for a full month depending on their billing cycle. But your service with us starts as soon as the port completes, so you're not paying double for service time.
+
+Customer: Got it. Let's do it!
+
+Agent: Perfect! I'm processing your order now... Your Unlimited Plus plan is set up, and I've submitted the port request for 555-1357. You should receive your SIM card by Tuesday. Watch for text updates on the port status. Your first bill with us will be prorated starting from when the port completes.
+
+Customer: Awesome. Thank you so much, Maria!
+
+Agent: You're welcome! Welcome to the family!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer porting number from Verizon to join company
+Resolution: Port request submitted, SIM card ordered, account created with Unlimited Plus plan
+Port Details: Number 555-1357, expected completion 24-48 hours
+Device: Customer-owned unlocked iPhone 14
+Customer Satisfaction: High
+Follow-up Required: Monitor port completion, customer to activate upon SIM card arrival
+

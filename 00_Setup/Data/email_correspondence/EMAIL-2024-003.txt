@@ -1,0 +1,78 @@
+Email ID: EMAIL-2024-003
+Date: 2024-11-19 16:40:00
+From: billing@telecom.com
+To: david.lee@email.com
+Subject: Re: Dispute of International Roaming Charges
+Thread ID: TH-45521
+Category: Billing Dispute
+Priority: High
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: david.lee@email.com
+Date: November 18, 2024 at 11:20 AM
+Subject: Dispute of International Roaming Charges
+
+To whom it may concern,
+
+I received my bill today with $287 in international roaming charges from a trip to Mexico last month. When I signed up for service, I was told my plan included free roaming in Mexico and Canada. These charges don't make sense.
+
+I need this resolved immediately. I should not be charged for roaming that was supposed to be included.
+
+Account: 555-2947
+Bill Date: November 15, 2024
+
+David Lee
+
+---
+
+From: billing@telecom.com
+Date: November 19, 2024 at 4:40 PM
+Subject: Re: Dispute of International Roaming Charges
+
+Dear David,
+
+Thank you for bringing this to our attention. I apologize for any confusion regarding your Mexico roaming charges. I've thoroughly reviewed your account and have good news.
+
+**Investigation Findings:**
+You are correct - your Unlimited Plus plan DOES include talk, text, and data in Mexico and Canada at no extra charge. I reviewed the specific charges and found that:
+
+- $287 in roaming charges were incorrectly applied to your account
+- These charges occurred October 12-18, 2024 during your Mexico trip
+- The error was due to a system issue that failed to recognize your plan's included Mexico coverage
+
+**Resolution:**
+1. All $287 in roaming charges have been REMOVED from your account
+2. A credit of $287 has been applied to your account
+3. Your correct balance is now $70 (your standard monthly plan charge)
+4. I've added a note to your account to prevent this from happening in future trips
+
+I sincerely apologize for this billing error and any stress it caused. Your plan absolutely includes Mexico and Canada coverage, and you should never see roaming charges when visiting those countries.
+
+If you have any questions or concerns, please don't hesitate to contact me directly at this email address.
+
+Thank you for your patience.
+
+Best regards,
+Jennifer Wong
+Billing Resolution Specialist
+Case #: BR-2024-111901-443
+Direct: billing.disputes@telecom.com
+
+---
+
+From: david.lee@email.com
+Date: November 19, 2024 at 5:15 PM
+Subject: Re: Dispute of International Roaming Charges
+
+Jennifer,
+
+Thank you for the thorough investigation and quick resolution. I appreciate you taking care of this and explaining what happened. 
+
+I'm glad it's resolved.
+
+David
+

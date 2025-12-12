@@ -1,0 +1,39 @@
+Email ID: EMAIL-2024-004
+Date: 2024-11-14 10:00:00
+From: support@telecom.com
+To: customer@email.com
+Subject: Re: Network Outage Compensation Request
+Category: Service Issue
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: sophia.garcia@email.com
+Date: November 20, 2024 at 8:45 AM
+
+I experienced a complete service outage for 6 hours yesterday (November 19th, 4 PM - 10 PM) in my area (ZIP 94103). I rely on my phone for work and missed important client calls. I'd like to request compensation for this outage.
+
+Account: 555-6723
+Sophia Garcia
+
+---
+
+From: customer.support@telecom.com
+Date: November 20, 2024 at 10:15 AM
+
+Dear Sophia,
+
+Thank you for contacting us about the service outage. I sincerely apologize for the disruption to your service.
+
+I've confirmed that there was indeed a network outage in the 94103 area on November 19th from 4:17 PM to 9:52 PM (5 hours 35 minutes) due to emergency fiber optic cable repairs.
+
+As compensation for this outage, I've applied a $15 credit to your account, representing approximately 7 days of service credit. This will appear on your next bill.
+
+We've also completed the repairs and enhanced redundancy in that area to prevent similar issues.
+
+Best regards,
+Marcus Johnson
+Network Services Team

@@ -1,0 +1,84 @@
+Call ID: CALL-2024-013
+Date: 2024-12-06 10:30:00
+Duration: 7 minutes 50 seconds
+Agent ID: AGT-3456
+Customer ID: CUS-10889
+Call Type: Visual Voicemail Issue
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning, this is Alex from technical support. How can I help you?
+
+Customer: Hi, my visual voicemail stopped working on my Android phone. I can still receive voicemails, but I can't see them in my voicemail app anymore.
+
+Agent: I can help you troubleshoot that. Can I get your phone number?
+
+Customer: 555-6789.
+
+Agent: Thank you. What type of Android phone do you have?
+
+Customer: Samsung Galaxy S23.
+
+Agent: Okay, and when did you first notice the visual voicemail wasn't working?
+
+Customer: A couple days ago. I got a voicemail notification, but when I opened the voicemail app, it just shows a loading spinner and nothing loads.
+
+Agent: Alright, let's try a few things. First, let's reset the voicemail app. Go to your Settings, then Apps.
+
+Customer: Okay, I'm in Apps.
+
+Agent: Find the app called "Voicemail" or "Visual Voicemail" and tap on it.
+
+Customer: Found it - it's called "Visual Voicemail."
+
+Agent: Perfect. Tap on Storage, then tap "Clear Cache." Do not clear data yet, just cache.
+
+Customer: Done. Cleared the cache.
+
+Agent: Now go back to your home screen and open the Visual Voicemail app again. Does it load?
+
+Customer: Still just showing the loading spinner.
+
+Agent: Okay. Let's try resetting your network settings. This won't delete any of your personal data, but it will reset Wi-Fi passwords and cellular settings. Go to Settings, then General Management, then Reset.
+
+Customer: I see Reset Network Settings.
+
+Agent: That's the one. Tap it and confirm. Your phone might restart.
+
+Customer: Okay, resetting now... Phone is restarting... It's back on.
+
+Agent: Good. Now open the Visual Voicemail app.
+
+Customer: Oh! It's working now! I can see all my voicemails!
+
+Agent: Excellent! What likely happened is your network settings got corrupted somehow, which prevented the voicemail app from connecting to our servers. The reset fixed that.
+
+Customer: Will this happen again?
+
+Agent: It shouldn't. This is usually a one-time issue. If it does happen again, you know how to fix it, or you can always call us back.
+
+Customer: Perfect. One more question - can I save these voicemails somewhere? One of them is from my dad who passed away last year, and I don't want to lose it.
+
+Agent: I'm sorry for your loss. Yes, you can save voicemails. In the Visual Voicemail app, tap on the voicemail you want to save, then look for a share or save option. You can export it to your phone's storage, email it to yourself, or save it to cloud storage like Google Drive.
+
+Customer: That's great to know. Thank you so much, Alex.
+
+Agent: You're very welcome. Is there anything else I can help you with?
+
+Customer: No, that's everything. Thank you again!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: Visual voicemail app not loading on Samsung Galaxy S23
+Root Cause: Corrupted network settings preventing connection to voicemail servers
+Resolution: Reset network settings, voicemail app functionality restored
+Additional Support: Explained how to save/export important voicemails
+Customer Satisfaction: High
+Follow-up Required: None
+

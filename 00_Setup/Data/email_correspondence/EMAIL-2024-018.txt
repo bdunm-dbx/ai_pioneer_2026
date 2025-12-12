@@ -1,0 +1,109 @@
+Email ID: EMAIL-2024-018
+Date: 2024-12-03 13:25:00
+From: accountchanges@telecom.com
+To: jennifer.taylor@email.com
+Subject: Re: Request to Remove Line from Family Plan
+Category: Account Change
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: jennifer.taylor@email.com
+Date: December 3, 2024 at 10:50 AM
+Subject: Request to Remove Line from Family Plan
+
+Hi,
+
+My daughter just graduated college and got a job, so she's getting her own phone plan. I need to remove her line (555-3847) from our family plan.
+
+Will this affect our family plan pricing for the remaining 3 lines?
+
+Jennifer Taylor
+Account holder: 555-3845
+
+---
+
+From: accountchanges@telecom.com
+Date: December 3, 2024 at 1:25 PM
+Subject: Re: Request to Remove Line from Family Plan
+
+Hi Jennifer,
+
+Congratulations to your daughter on her graduation and new job!
+
+I can help you remove her line. Here's how it affects your account:
+
+CURRENT PLAN:
+- 4 lines on Unlimited Plus Family Plan
+- Total: $200/month ($50/line)
+
+AFTER REMOVING 1 LINE:
+- 3 lines on Unlimited Plus Family Plan
+- New Total: $165/month ($55/line)
+
+So yes, the per-line price increases slightly when you drop from 4 to 3 lines, but your overall bill decreases by $35/month.
+
+IMPORTANT: Does your daughter want to:
+A) Port her number to her own new carrier? (She keeps 555-3847)
+B) Cancel the number entirely? (Number gets deactivated)
+
+If Option A, she'll need to start service with her new carrier first, and THEY will request the port from us. Don't cancel the line before she ports, or she'll lose the number.
+
+If Option B, I can cancel it right away.
+
+Which option works for her?
+
+Best,
+Robert Kim
+Account Changes Team
+
+---
+
+From: jennifer.taylor@email.com
+Date: December 3, 2024 at 2:10 PM
+Subject: Re: Request to Remove Line from Family Plan
+
+Robert,
+
+She wants to keep her number and is porting it to her new carrier (T-Mobile). She said they're handling the port request.
+
+So I should just wait and do nothing on my end?
+
+Jennifer
+
+---
+
+From: accountchanges@telecom.com
+Date: December 3, 2024 at 3:00 PM
+Subject: Re: Request to Remove Line from Family Plan
+
+Exactly! When T-Mobile processes the port:
+1. They'll contact us with your daughter's account info
+2. We'll release the number to them
+3. Her line automatically cancels from your family plan
+4. Your bill adjusts to the 3-line rate
+
+WHAT YOU NEED TO DO: Nothing! Just keep the line active until T-Mobile completes the port (usually 24-48 hours).
+
+You'll receive an email confirmation when the port completes and the line is removed from your account.
+
+Your next bill (due December 20th) will be prorated:
+- 4 lines for part of the month
+- 3 lines for the rest of the month
+
+Any questions, just reply to this email!
+
+Robert
+
+---
+
+From: jennifer.taylor@email.com
+Date: December 3, 2024 at 3:15 PM
+Subject: Re: Request to Remove Line from Family Plan
+
+Perfect! That makes sense. Thank you for the clear explanation!
+
+Jennifer

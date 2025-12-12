@@ -1,0 +1,56 @@
+Call ID: CALL-2024-012
+Date: 2024-12-05 14:45:00
+Duration: 8 minutes 15 seconds
+Agent ID: AGT-2991
+Customer ID: CUS-11003
+Call Type: Business Account Inquiry
+Resolution Status: Transferred to Business Sales
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Tom from customer service. How can I help you?
+
+Customer: Hi Tom, I run a small construction company and I need to set up phone service for my crew. We currently have 8 employees who need phones. What are my options?
+
+Agent: I can definitely help point you in the right direction! For business accounts with multiple lines, we have specialized business plans that offer better rates and additional features. Are you currently a personal customer with us, or would this be a new account?
+
+Customer: I'm currently a personal customer, but this would be for my business.
+
+Agent: Perfect. Our business plans start at 5 lines and offer features specifically designed for businesses - things like shared data pools, mobile hotspot, priority customer support, and device management tools. For 8 lines, you'd likely be looking at our Business Unlimited plan.
+
+Customer: What's the cost for something like that?
+
+Agent: Business plan pricing varies based on specific needs, but for 8 lines on our Business Unlimited plan, you're typically looking at around $30-35 per line per month. That includes unlimited data, talk, and text, plus business-specific features.
+
+Customer: That's less than I'm paying now for my personal line! What are these business-specific features?
+
+Agent: Great question! Business accounts include features like: centralized billing so you get one bill for all lines, the ability to manage all devices from one online portal, priority tech support during business hours, mobile device management for security, and the option to set spending limits per line. You can also add features like international calling or enhanced hotspot data.
+
+Customer: That mobile device management sounds useful. My guys are always losing or breaking phones.
+
+Agent: Exactly! You can remotely lock or wipe lost devices, track data usage per employee, and even restrict certain features. Plus, we offer device protection plans specifically for businesses with faster replacement options.
+
+Customer: This sounds like what I need. How do I get started?
+
+Agent: I'm going to transfer you to our Business Sales team - they specialize in setting up business accounts and can give you a detailed quote based on your specific needs. They can also discuss device options if you need new phones for your crew. Does that work for you?
+
+Customer: Yes, that's perfect.
+
+Agent: Great! Just so you know, when they set up your business account, you can keep your current personal number if you want, or you can get new numbers for everyone. They'll walk you through all the options. Let me transfer you now - you'll be speaking with one of our business specialists.
+
+Customer: Thanks Tom!
+
+Agent: You're welcome! Good luck with your business setup!
+
+---
+CALL SUMMARY:
+---
+Issue: Small business owner needs 8 lines for construction company
+Resolution: Educated customer on business plan options and benefits, transferred to Business Sales
+Business Plan Features Discussed: Shared data, centralized billing, device management, priority support
+Estimated Pricing: $30-35 per line for Business Unlimited (8 lines)
+Customer Satisfaction: High
+Follow-up Required: Business Sales team to provide detailed quote and setup
+

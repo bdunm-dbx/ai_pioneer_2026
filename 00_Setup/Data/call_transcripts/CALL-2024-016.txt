@@ -1,0 +1,77 @@
+Call ID: CALL-2024-016
+Date: 2024-12-09 09:50:00
+Duration: 11 minutes 30 seconds
+Agent ID: AGT-3267
+Customer ID: CUS-11234
+Call Type: Device Insurance Claim
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning, this is Patricia from device protection. How may I assist you?
+
+Customer: Hi, I need to file an insurance claim. I dropped my phone and the screen is completely shattered.
+
+Agent: I'm sorry to hear that! I can help you file a claim. Can I get your phone number?
+
+Customer: 555-7531.
+
+Agent: Thank you. Let me verify you have device protection on your account... Yes, I see you have our Premium Device Protection plan. Can you tell me what happened to your phone?
+
+Customer: I was getting out of my car and it slipped out of my pocket onto the pavement. The screen is cracked all over. The phone still works, but I can barely see anything through the cracks.
+
+Agent: Okay. What type of phone is it?
+
+Customer: iPhone 14 Pro, 256GB in Space Black.
+
+Agent: Alright. With your Premium Protection plan, you have two options: we can send you a replacement device for a $99 service fee, or you can get the screen repaired at an authorized repair center for a $29 fee. Which would you prefer?
+
+Customer: What's the difference? Does the replacement take longer?
+
+Agent: The replacement ships overnight and typically arrives the next business day. Screen repairs usually take 1-2 hours at the repair center, but you'd need to find a time to go there. Both options cover the damage completely after the service fee.
+
+Customer: I'd rather just get a replacement. I need my phone and don't have time to go to a repair shop.
+
+Agent: Understood. I'll process the replacement claim now. The $99 service fee will appear on your next bill. The replacement iPhone 14 Pro will be the same model and color. It will be a certified like-new device, fully tested and warrantied.
+
+Customer: Will it have all my stuff on it?
+
+Agent: No, the replacement will be blank. You'll need to restore it from your iCloud backup or set it up as new. Do you back up to iCloud regularly?
+
+Customer: I think so? I'm not sure.
+
+Agent: Let's check. On your current phone, can you go to Settings, tap your name at the top, then iCloud, then iCloud Backup?
+
+Customer: Okay... it says "Last successful backup: Today at 3:42 AM."
+
+Agent: Perfect! Your data is backed up. When you get your replacement phone, just sign in with your Apple ID during setup and choose "Restore from iCloud Backup." All your apps, photos, and settings will transfer over.
+
+Customer: Okay, that sounds easy enough. How do I send my broken phone back?
+
+Agent: We'll include a prepaid return envelope with your replacement. You have 10 days to return your damaged phone. If you don't return it, there's a non-return fee of $699 charged to your account.
+
+Customer: Got it. When will the replacement ship?
+
+Agent: It's shipping today and should arrive tomorrow via FedEx. You'll get a tracking number via text and email within the next hour. One more thing - since the screen is cracked, be careful when handling it. If you want to protect your hands, you can put clear tape over the screen until the replacement arrives.
+
+Customer: That's a good idea. Thank you so much for your help!
+
+Agent: You're very welcome! You should have your new phone tomorrow. Is there anything else I can help with?
+
+Customer: No, that's everything. Thanks again!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: Cracked iPhone 14 Pro screen from drop damage
+Resolution: Replacement device claim filed, $99 service fee applied
+Replacement Details: iPhone 14 Pro 256GB Space Black, certified like-new, overnight shipping
+Return Requirements: Damaged device must be returned within 10 days (prepaid envelope included)
+Data Transfer: Customer has iCloud backup, instructions provided for restoration
+Customer Satisfaction: High
+Follow-up Required: Customer to return damaged device within 10 days
+

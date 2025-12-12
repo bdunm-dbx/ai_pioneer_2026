@@ -1,0 +1,68 @@
+Email ID: EMAIL-2024-006
+Date: 2024-11-22 15:30:00
+From: support@telecom.com
+To: kevin.brown@email.com
+Subject: Re: Autopay Failed - Payment Method Update
+Category: Account Management
+Priority: High
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: kevin.brown@email.com
+Date: November 22, 2024 at 9:20 AM
+Subject: Autopay Failed - Payment Method Update
+
+Hello,
+
+I just got a notification that my autopay failed and my service will be suspended in 48 hours if I don't pay. This doesn't make sense - I have plenty of money in my checking account and autopay has been working fine for 2 years.
+
+Can you please check what's going on? I don't want my service cut off.
+
+Kevin Brown
+Account: 555-6723
+
+---
+
+From: support@telecom.com
+Date: November 22, 2024 at 10:45 AM
+Subject: Re: Autopay Failed - Payment Method Update
+
+Dear Kevin,
+
+Thank you for reaching out about your autopay issue. I've investigated your account and found the problem.
+
+Your autopay was using a debit card ending in 4892, which our system shows was declined on November 20th with the reason "Card Expired." It appears your bank issued you a new card with a new expiration date, and the old card was deactivated.
+
+This is very common - banks typically reissue cards every 3 years for security.
+
+GOOD NEWS: I've suspended the service suspension notice, so you have time to update your payment method without any interruption.
+
+TO UPDATE YOUR PAYMENT:
+1. Log in to your account at telecom.com
+2. Go to Billing > Payment Methods
+3. Update your card information with the new expiration date (or add your new card)
+4. Your autopay will resume automatically
+
+Alternatively, I can update this over the phone if you prefer - just call us at 1-800-555-0100.
+
+Your next payment of $75 will process on November 28th. As long as you update by then, everything will continue normally.
+
+Best regards,
+Amanda Porter
+Billing Support Team
+Case #: CS-2024-112201-847
+
+---
+
+From: kevin.brown@email.com
+Date: November 22, 2024 at 11:15 AM
+Subject: Re: Autopay Failed - Payment Method Update
+
+Amanda,
+
+That makes total sense! I did get a new card last month and forgot to update it. I just logged in and updated the expiration date. Thanks for catching this before my service got shut off!
+
+Kevin

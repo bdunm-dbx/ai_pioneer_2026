@@ -1,0 +1,67 @@
+Email ID: EMAIL-2024-001
+Date: 2024-11-14 10:23:00
+From: customer.support@telecom.com
+To: james.martinez@email.com
+Subject: Re: Question about my November Bill
+Thread ID: TH-45281
+Category: Billing
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: james.martinez@email.com
+Date: November 14, 2024 at 9:15 AM
+Subject: Question about my November Bill
+
+Hello,
+
+I just received my November bill and noticed I was charged $45.99 for "Device Protection Plus." I don't recall signing up for this service. Can you please explain what this charge is for and help me remove it if I didn't authorize it?
+
+Thank you,
+James Martinez
+Account: 555-4782
+
+---
+
+From: customer.support@telecom.com
+Date: November 14, 2024 at 10:23 AM
+Subject: Re: Question about my November Bill
+
+Dear James,
+
+Thank you for contacting us regarding your November bill. I'd be happy to help clarify this charge.
+
+I've reviewed your account and found that Device Protection Plus was added to your account on October 15th through our online portal. This service provides:
+- Screen repair coverage
+- Loss and theft protection
+- Mechanical/electrical breakdown coverage
+- Same-day device replacement option
+
+The enrollment occurred from an IP address matching previous logins from your account, which suggests it was added during an online session.
+
+However, I completely understand if this was added accidentally or if you're not interested in keeping this protection. I've gone ahead and removed Device Protection Plus from your account, effective immediately. You'll receive a prorated credit of $30.66 on your next bill (covering the unused portion of November).
+
+Is there anything else I can help you with today?
+
+Best regards,
+Sarah Chen
+Customer Care Specialist
+Case #: CS-2024-110514-001
+
+---
+
+From: james.martinez@email.com
+Date: November 14, 2024 at 11:05 AM
+Subject: Re: Question about my November Bill
+
+Sarah,
+
+Thank you so much for the quick response and for removing the charge! I must have accidentally clicked on something when I was updating my payment method last month.
+
+I appreciate your help!
+
+James
+

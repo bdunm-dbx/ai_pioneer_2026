@@ -1,0 +1,78 @@
+Email ID: EMAIL-2024-007
+Date: 2024-11-23 11:35:00
+From: records@telecom.com
+To: robert.chen@email.com
+Subject: Re: Request for Detailed Call Log
+Category: Account Information
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: robert.chen@email.com
+Date: November 23, 2024 at 9:10 AM
+Subject: Request for Detailed Call Log
+
+Hello,
+
+I need a detailed call and text log for my business line (555-7482) for October 2024. I'm doing my taxes and need to document which calls were business vs. personal for expense purposes.
+
+Can you send me a report showing:
+- Date and time of each call/text
+- Phone numbers called
+- Call duration
+- Whether incoming or outgoing
+
+Robert Chen
+Account: 555-7482
+
+---
+
+From: records@telecom.com
+Date: November 23, 2024 at 11:35 AM
+Subject: Re: Request for Detailed Call Log
+
+Dear Robert,
+
+I can certainly help you with that. I've generated a detailed call and text message log for 555-7482 covering October 1-31, 2024.
+
+ATTACHED: CallLog_555-7482_October2024.pdf
+
+The report includes:
+- 342 outgoing calls with duration and destination number
+- 298 incoming calls with duration and originating number  
+- 1,847 outgoing text messages
+- 1,653 incoming text messages
+- Timestamps for all activity (in EST)
+
+PRIVACY NOTE: Per regulations, the actual content of text messages is not included, only the metadata (time, sender/recipient, message count).
+
+For future reference, you can also download call logs directly from your online account:
+1. Log in to telecom.com
+2. Go to My Account > Usage
+3. Select date range
+4. Click "Download Usage Report"
+
+Is there anything else you need for your tax preparation?
+
+Best regards,
+Patricia Nguyen
+Account Records Team
+records@telecom.com
+Case #: REC-2024-112301-556
+
+---
+
+From: robert.chen@email.com
+Date: November 23, 2024 at 12:05 PM
+Subject: Re: Request for Detailed Call Log
+
+Patricia,
+
+Perfect! This is exactly what I needed. The PDF is well-formatted and will work great for my accountant.
+
+Thanks for the quick turnaround and for showing me how to download this myself in the future!
+
+Robert

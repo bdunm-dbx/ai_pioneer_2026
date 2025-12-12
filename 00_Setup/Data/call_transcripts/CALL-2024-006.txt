@@ -1,0 +1,87 @@
+Call ID: CALL-2024-006
+Date: 2024-11-27 10:15:00
+Duration: 7 minutes 45 seconds
+Agent ID: AGT-3421
+Customer ID: CUS-12001
+Call Type: New Activation
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning! This is Michael from activations. How can I help you today?
+
+Customer: Hi! I just bought a new iPhone 15 and I need to activate it on my account.
+
+Agent: Congratulations on the new phone! I'd be happy to help you get that activated. Can I get your phone number?
+
+Customer: It's 555-2468.
+
+Agent: Perfect. And do you have the new phone with you right now?
+
+Customer: Yes, I do. It's still in the box.
+
+Agent: Great! Let's get started. First, is this replacing an existing phone, or is this a new line you're adding to your account?
+
+Customer: It's replacing my old iPhone 11.
+
+Agent: Okay, perfect. Do you have a physical SIM card or will you be using eSIM?
+
+Customer: The box says it's eSIM only. I'm not sure what that means exactly.
+
+Agent: No problem! eSIM is a digital SIM that's built into your phone. It's actually easier than physical SIM cards - we can activate it remotely without you having to swap any cards around. Go ahead and power on your new iPhone.
+
+Customer: Okay, it's turning on... It's asking me about language and region.
+
+Agent: Go ahead and select your language and region, then follow the prompts until you get to the "Set Up Cellular" screen. Let me know when you're there.
+
+Customer: Okay... Setting up Face ID... Okay, I'm at the cellular setup screen now.
+
+Agent: Perfect. You should see an option that says "Transfer from Another iPhone" or "Use Mobile Data Plan." Which options do you see?
+
+Customer: I see "Transfer from Another iPhone" and "Set Up Later in Settings."
+
+Agent: Excellent. Since your old iPhone 11 is right there, select "Transfer from Another iPhone." Make sure both phones have Bluetooth turned on.
+
+Customer: Okay, selected it... My old phone is showing a prompt asking if I want to transfer to the new iPhone.
+
+Agent: Perfect! Tap "Continue" on your old phone. This will transfer your number and plan to the new device.
+
+Customer: It's saying "Transferring..." with a progress bar.
+
+Agent: Great! This usually takes about 2-3 minutes. While that's happening, I'm going to update your device information in our system. Can you give me the IMEI number from your new iPhone? It should be on the box or you can find it in Settings once the transfer is complete.
+
+Customer: It's on the box... 356789012345678.
+
+Agent: Perfect, thank you. I'm updating your account now... Done! Once the transfer completes, your new iPhone should automatically connect to our network.
+
+Customer: The transfer just finished! And I see bars at the top of the screen now. Does that mean it's working?
+
+Agent: Yes! Can you try making a quick test call to make sure everything is working?
+
+Customer: Sure, calling my wife now... It's ringing! She picked up. Yes, it's working!
+
+Agent: Excellent! Your activation is complete. Your old iPhone 11 will no longer work with your number, but you can still use it on Wi-Fi. Make sure you do a backup to iCloud or your computer before you trade it in or give it away.
+
+Customer: Will all my apps and photos transfer over?
+
+Agent: If you set up the phone to transfer from your old iPhone, most of your apps and data should come over. Some apps might need to be re-downloaded. For photos, if you use iCloud Photos, they'll sync automatically once you're connected to Wi-Fi.
+
+Customer: Perfect! That was way easier than I expected. Thank you so much!
+
+Agent: You're very welcome! Enjoy your new iPhone 15! Is there anything else I can help you with today?
+
+Customer: No, that's everything. Thanks again!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: New iPhone 15 activation with eSIM transfer
+Resolution: Successfully transferred service from iPhone 11 to iPhone 15 via eSIM
+Process: Used iPhone-to-iPhone transfer feature, updated IMEI in system
+Customer Satisfaction: High
+Follow-up Required: None
+

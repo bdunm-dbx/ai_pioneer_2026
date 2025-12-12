@@ -1,0 +1,68 @@
+Call ID: CALL-2024-003
+Date: 2024-11-20 16:45:00
+Duration: 6 minutes 15 seconds
+Agent ID: AGT-3102
+Customer ID: CUS-10456
+Call Type: Plan Upgrade
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Jessica. How may I help you this afternoon?
+
+Customer: Hi Jessica! I'm calling because I'm thinking about upgrading my plan. My kids are using a ton of data and we keep going over our limit.
+
+Agent: I'd be happy to help you find a better plan! Can I get your phone number to pull up your account?
+
+Customer: Sure, it's 555-7890.
+
+Agent: Perfect, thank you. Let me see what you're currently on... Okay, I see you have our Family Share 15GB plan with three lines. How much data are you typically using each month?
+
+Customer: We've been hitting the limit pretty much every month, and last month we went over by 8GB. The overage charges were almost $80!
+
+Agent: Oh wow, that's frustrating. At those rates, upgrading definitely makes sense. Let me show you some options. Our Unlimited Family plan would give you unlimited data on all three lines for $120 per month. What are you paying now?
+
+Customer: We're at $90 for the 15GB plan, so that would be $30 more. But if we're paying $80 in overages, that actually saves us money, right?
+
+Agent: Exactly! You'd save about $50 per month compared to your current plan with overages. Plus, you wouldn't have to worry about monitoring data usage anymore. Does anyone on your plan use hotspot features?
+
+Customer: My son does for homework sometimes when our home internet is being wonky.
+
+Agent: Great to know. The Unlimited Family plan includes 15GB of mobile hotspot per line. There's also our Unlimited Premium Family plan for $150 per month, which includes 50GB of premium data per line before any potential slowdowns, plus 30GB of hotspot, and it includes our international features like free texting and calling to Mexico and Canada.
+
+Customer: I don't think we need the premium features. The regular unlimited sounds perfect. Can we switch right now?
+
+Agent: Absolutely! I can make that change for you today. Your new rate of $120 per month will start with your next billing cycle on December 1st. Is that okay?
+
+Customer: Perfect. Will we get prorated for the current month?
+
+Agent: Yes, you will. You'll get a credit for the unused portion of your current 15GB plan, and you'll be charged a prorated amount for the Unlimited plan starting today. So you'll have unlimited data starting immediately.
+
+Customer: That's great! And just to confirm - all three lines get unlimited?
+
+Agent: Yes, all three lines will have unlimited data, unlimited talk and text, and 15GB of mobile hotspot per line. You'll also get our 5G access at no extra charge.
+
+Customer: Wonderful! Can you email me a confirmation of this change?
+
+Agent: Absolutely. I'll send a confirmation to the email address we have on file - is that still sarah.johnson@email.com?
+
+Customer: Yes, that's correct.
+
+Agent: Perfect! I've processed the upgrade and you should see the confirmation email within the next few minutes. Your unlimited data is active right now. Is there anything else I can help you with today?
+
+Customer: No, that's everything. Thank you so much, Jessica!
+
+Agent: You're very welcome! Enjoy your unlimited data, and thank you for being a valued customer!
+
+---
+CALL SUMMARY:
+---
+Issue: Frequent data overages on Family Share 15GB plan
+Solution: Upgraded to Unlimited Family plan ($120/month)
+Financial Impact: Customer saves ~$50/month (avoiding $80 average overage fees)
+Additional Benefits: 15GB hotspot per line, 5G access, unlimited talk/text
+Customer Satisfaction: High
+Follow-up Required: None - confirmation email sent
+

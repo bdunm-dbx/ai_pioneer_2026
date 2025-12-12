@@ -1,0 +1,44 @@
+Email ID: EMAIL-2024-005
+Date: 2024-11-15 10:00:00
+From: support@telecom.com
+To: customer@email.com
+Subject: Re: Trade-In Value Question
+Category: Sales Inquiry
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: emily.wilson@email.com
+Date: November 21, 2024 at 1:30 PM
+
+Hi, I want to trade in my Samsung Galaxy S22 for a new iPhone 15. What's the trade-in value? The phone is in excellent condition - no scratches, works perfectly.
+
+Emily Wilson
+555-3847
+
+---
+
+From: sales@telecom.com
+Date: November 21, 2024 at 3:45 PM
+
+Hi Emily,
+
+Great question! Based on the information you provided, your Samsung Galaxy S22 in excellent condition has an estimated trade-in value of $350.
+
+Here's how the trade-in process works:
+1. Order your new iPhone 15
+2. We'll email you a prepaid shipping label
+3. Ship your S22 to us within 14 days
+4. We'll inspect it and confirm the $350 value
+5. Credit applied as $14.58/month for 24 months
+
+The iPhone 15 (128GB) is $799. With your $350 trade-in, you'd finance $449 at $18.71/month for 24 months.
+
+Ready to proceed? Reply to this email or visit our website to start your order!
+
+Best,
+Lisa Chen
+Sales Team

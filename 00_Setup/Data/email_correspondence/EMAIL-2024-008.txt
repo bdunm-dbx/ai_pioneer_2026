@@ -1,0 +1,80 @@
+Email ID: EMAIL-2024-008
+Date: 2024-11-24 13:15:00
+From: techsupport@telecom.com
+To: nicole.martinez@email.com
+Subject: Re: 5G Not Working on My Phone
+Category: Technical Support
+Priority: High
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: nicole.martinez@email.com
+Date: November 24, 2024 at 10:45 AM
+Subject: 5G Not Working on My Phone
+
+I have a Galaxy S23 and I'm paying for 5G service, but my phone only shows LTE. I've tried restarting it multiple times. My friend has the same phone and same plan and his shows 5G. What's wrong with mine?
+
+Nicole Martinez  
+555-3928
+
+---
+
+From: techsupport@telecom.com
+Date: November 24, 2024 at 1:15 PM
+Subject: Re: 5G Not Working on My Phone
+
+Hi Nicole,
+
+I can help troubleshoot this! There are a few possible reasons why your Galaxy S23 isn't connecting to 5G.
+
+First, let me check your account... Your plan and service look good, and 5G is definitely active for your line.
+
+QUICK DIAGNOSTIC STEPS:
+
+1. Check if 5G is enabled on your phone:
+   - Go to Settings > Connections > Mobile Networks
+   - Tap on "Network Mode"  
+   - Make sure it's set to "5G/LTE/3G/2G (auto connect)" NOT "LTE/3G/2G"
+
+2. Verify your location:
+   - 5G coverage isn't everywhere yet
+   - Go to telecom.com/coverage and enter your ZIP code to see if 5G is available in your area
+
+3. Check for software updates:
+   - Settings > Software Update
+   - Install any available updates (carrier settings especially)
+
+Can you try step 1 and let me know what your Network Mode is currently set to?
+
+Best,
+Marcus Williams
+Technical Support Team
+
+---
+
+From: nicole.martinez@email.com
+Date: November 24, 2024 at 1:45 PM
+Subject: Re: 5G Not Working on My Phone
+
+Marcus,
+
+OMG I feel so silly! It was set to "LTE/3G/2G"! I just changed it to the 5G option and now I see "5G" at the top of my screen!
+
+I must have accidentally changed this setting. Thank you so much!
+
+Nicole
+
+---
+
+From: techsupport@telecom.com
+Date: November 24, 2024 at 2:05 PM
+Subject: Re: 5G Not Working on My Phone
+
+Ha! Don't feel silly at all - this happens more often than you'd think! It's an easy setting to accidentally change.
+
+Glad you're up and running on 5G now. Enjoy those faster speeds!
+
+Marcus

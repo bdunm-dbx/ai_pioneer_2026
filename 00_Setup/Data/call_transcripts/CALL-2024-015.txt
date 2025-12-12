@@ -1,0 +1,64 @@
+Call ID: CALL-2024-015
+Date: 2024-12-08 12:30:00
+Duration: 5 minutes 45 seconds
+Agent ID: AGT-2345
+Customer ID: CUS-10665
+Call Type: Autopay Setup
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good afternoon! This is Kevin. How can I help you?
+
+Customer: Hi Kevin, I want to set up automatic payments for my bill. I keep forgetting to pay on time and getting late fees.
+
+Agent: I can definitely help you avoid those late fees! Setting up autopay is quick and easy. Can I get your phone number?
+
+Customer: 555-8024.
+
+Agent: Thank you. Let me pull up your account... I see you currently pay manually each month. With autopay, we'll automatically charge your payment method on your due date each month. We offer a $10 monthly discount for customers who use autopay with a checking account.
+
+Customer: Oh, I get a discount too? That's great!
+
+Agent: Yes! The autopay discount saves you $120 per year. Now, you can use either a checking account or a credit/debit card for autopay. The $10 discount only applies to checking accounts. Which would you prefer?
+
+Customer: I'll use my checking account then. I want that discount!
+
+Agent: Smart choice! I'll need your bank routing number and account number. Do you have a check or your bank app handy?
+
+Customer: Let me open my banking app... Okay, routing number is 123456789 and account number is 987654321.
+
+Agent: Perfect. Let me confirm - routing 123456789, account 987654321. Is that correct?
+
+Customer: Yes, that's correct.
+
+Agent: Great! I'm setting up autopay now... Done! Your autopay is active and will start with your next bill on December 15th. You'll receive an email confirmation, and we'll send you a reminder email 5 days before each payment is processed.
+
+Customer: So my bill is $80, and with the $10 discount it'll be $70?
+
+Agent: Exactly! Your new monthly amount will be $70, automatically deducted on the 15th of each month. If your bill ever changes - like if you add a service or have credits - you'll be notified before the payment processes.
+
+Customer: What if I need to update my bank account information later?
+
+Agent: You can update your payment method anytime through your online account or by calling us. Just make sure you do it before your bill due date if you need to make changes.
+
+Customer: Perfect. And this starts next month, not this month?
+
+Agent: Correct. Your December 15th bill will be your first autopay. You'll need to pay your current balance manually.
+
+Customer: Got it. Thanks so much for your help!
+
+Agent: You're welcome! Enjoy the savings!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer wants to set up automatic payments to avoid late fees
+Resolution: Autopay configured with checking account, $10 monthly discount applied
+Payment Details: $70/month (originally $80) auto-deducted on 15th of each month
+First Autopay Date: December 15th
+Customer Satisfaction: High
+Follow-up Required: None
+

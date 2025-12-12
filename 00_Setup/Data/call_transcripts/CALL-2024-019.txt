@@ -1,0 +1,76 @@
+Call ID: CALL-2024-019
+Date: 2024-12-12 16:05:00
+Duration: 7 minutes 10 seconds
+Agent ID: AGT-3091
+Customer ID: CUS-10889
+Call Type: Data Usage Question
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Daniel. How can I help you?
+
+Customer: Hi, I got a text saying I'm at 75% of my data limit, but I have unlimited data. What's going on?
+
+Agent: I can clarify that for you. Can I get your phone number so I can review your plan?
+
+Customer: 555-4826.
+
+Agent: Thank you. Let me pull up your account... I see you're on our Unlimited Starter plan. This plan does include unlimited data, but there's something called a "premium data allotment." Can I explain how that works?
+
+Customer: Yes, please. I thought unlimited meant unlimited.
+
+Agent: You do have unlimited data - you won't be charged overage fees and your data won't be cut off. However, the Starter plan includes 25GB of "premium data" per month. After you use that 25GB, your data speeds may be temporarily slowed during times of network congestion.
+
+Customer: So after 25GB, my internet will be slow?
+
+Agent: Only potentially, and only during busy times on the network. If the cell tower you're connected to isn't congested, you'll still get full speeds. But during peak hours in busy areas, you might be prioritized behind customers on higher-tier plans who haven't reached their premium data limit.
+
+Customer: How slow are we talking?
+
+Agent: It varies, but typically you'd still be able to stream music, use social media, and browse the web. Video streaming might buffer more, and downloads might take longer. It's not dial-up slow, but it's noticeable compared to full-speed 5G.
+
+Customer: This is frustrating. I thought I had unlimited.
+
+Agent: I completely understand the confusion. You do have unlimited data - the key difference is speed. Let me explain your upgrade options if you're interested in more premium data.
+
+Customer: Okay, what are my options?
+
+Agent: Our Unlimited Plus plan is $15 more per month and includes 50GB of premium data before any potential slowdowns. Our Unlimited Premium plan is $25 more and includes 100GB of premium data. Both include additional features like HD video streaming and more hotspot data.
+
+Customer: So with my current usage - I'm at about 18-19GB already and we're only halfway through the month - I'd probably hit 40GB by the end of the month?
+
+Agent: Based on that math, yes. The Plus plan with 50GB would probably be perfect for you, and you'd have some buffer room.
+
+Customer: What's the hotspot difference?
+
+Agent: Your current Starter plan doesn't include mobile hotspot. The Plus plan includes 30GB of high-speed hotspot, and Premium includes 50GB.
+
+Customer: I do occasionally need hotspot when I'm traveling. Okay, let's switch to the Plus plan.
+
+Agent: Perfect! I can make that change right now. Your new rate will be $75 per month instead of $60. The change takes effect immediately, and your 50GB premium data resets with your next billing cycle on the 28th. For the rest of this billing period, you'll have full speeds since you're under 25GB.
+
+Customer: So I won't get slowed down this month?
+
+Agent: Correct! And starting December 28th, your limit resets to 50GB. I'm also sending you a confirmation email with details about your new plan features.
+
+Customer: Great! Thank you for explaining all this, Daniel.
+
+Agent: You're very welcome! Is there anything else I can help with?
+
+Customer: No, that's all. Thanks!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer confused about "unlimited" data and 75% usage warning
+Education Provided: Explained premium data allotment vs. unlimited data, network prioritization
+Resolution: Upgraded from Unlimited Starter to Unlimited Plus ($60 to $75/month)
+New Plan Benefits: 50GB premium data (vs. 25GB), 30GB hotspot (vs. none), HD streaming
+Customer Satisfaction: High (frustrated initially, satisfied after explanation and upgrade)
+Follow-up Required: None
+

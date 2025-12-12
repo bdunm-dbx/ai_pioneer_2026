@@ -1,0 +1,59 @@
+Call ID: CALL-2024-001
+Date: 2024-11-15 14:32:00
+Duration: 8 minutes 45 seconds
+Agent ID: AGT-2341
+Customer ID: CUS-10892
+Call Type: Billing Inquiry
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling. This is Sarah from customer support. How can I help you today?
+
+Customer: Hi Sarah, I'm calling about my bill. I was charged $89.99 this month, but my plan is supposed to be $60. I don't understand where these extra charges are coming from.
+
+Agent: I'd be happy to look into that for you. Can I have your account number or the phone number associated with your account?
+
+Customer: Sure, it's 555-0123.
+
+Agent: Thank you. Let me pull up your account... Okay, I can see your Unlimited Premium plan is indeed $60 per month. I'm looking at the additional charges now. I see a $15.99 charge for international roaming on November 3rd, and a $14 charge for premium device insurance that started this billing cycle.
+
+Customer: International roaming? I haven't left the country!
+
+Agent: Let me check the details... The roaming charges were incurred in Vancouver, Canada on November 3rd. Does that ring a bell?
+
+Customer: Oh! Yes, I drove up to Vancouver for a day trip to visit family. I didn't realize I'd crossed the border and my phone connected to a Canadian network. I only made one call.
+
+Agent: That makes sense. Unfortunately, our standard plans don't include Canada coverage. The roaming charges are legitimate, but I can definitely help you avoid this in the future. We have a North America plan that includes Canada and Mexico for only $5 more per month.
+
+Customer: That would have been helpful to know! What about the insurance charge? I don't remember signing up for that.
+
+Agent: Let me check... I see the device insurance was added on November 1st through our online portal. Do you recall accessing your account that day?
+
+Customer: My daughter was helping me upgrade my phone settings. She might have clicked something.
+
+Agent: That happens! The good news is we have a 30-day grace period. Since it's only been two weeks, I can remove the insurance and refund the $14 charge. Would you like me to do that?
+
+Customer: Yes please! And I'll be more careful about that Canada plan thing.
+
+Agent: Perfect. I've removed the device insurance and processed a $14 credit to your account. It will appear on your next bill. For the roaming charges, those are valid, but I've added a note to your account about the North America plan option. If you'd like to add it, you can do so through your online account or by calling us back.
+
+Customer: Thank you so much, Sarah. You've been really helpful.
+
+Agent: You're very welcome! Is there anything else I can help you with today?
+
+Customer: No, that's everything. Thanks again!
+
+Agent: Great! Thank you for calling, and have a wonderful day!
+
+---
+CALL SUMMARY:
+---
+Issue: Unexpected billing charges ($89.99 vs expected $60)
+Root Cause: International roaming charges ($15.99) and unintended device insurance enrollment ($14)
+Resolution: Removed device insurance, issued $14 credit, explained roaming charges
+Customer Satisfaction: High
+Follow-up Required: None
+

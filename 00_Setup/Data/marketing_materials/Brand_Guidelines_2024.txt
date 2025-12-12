@@ -1,0 +1,138 @@
+TELECOM COMPANY - BRAND GUIDELINES 2024
+===========================================
+
+VERSION: 3.2
+EFFECTIVE DATE: January 1, 2024
+DEPARTMENT: Marketing & Brand
+CLASSIFICATION: Internal Use
+
+---
+BRAND MISSION & VALUES
+---
+
+Mission Statement:
+"Connecting people to what matters most through reliable, innovative, and accessible wireless communication."
+
+Core Values:
+1. Customer First - Every decision prioritizes customer experience
+2. Innovation - Leading in 5G and next-generation technology
+3. Reliability - Network uptime and service quality are paramount
+4. Accessibility - Making premium service affordable for all
+5. Sustainability - Commitment to environmental responsibility
+
+---
+VISUAL IDENTITY
+---
+
+Primary Brand Colors:
+- Signature Blue: #0066CC (RGB: 0, 102, 204)
+- Accent Orange: #FF6600 (RGB: 255, 102, 0)
+- Neutral Gray: #4A4A4A (RGB: 74, 74, 74)
+- White: #FFFFFF
+- Black: #000000
+
+Color Usage:
+- Signature Blue: Primary brand color for logos, headers, CTAs
+- Accent Orange: Highlights, promotions, urgency messaging
+- Neutral Gray: Body text, secondary elements
+- Use white or black for contrast and readability
+
+Typography:
+- Headlines: "Gotham Bold" or "Montserrat Bold" (web-safe alternative)
+- Body Copy: "Open Sans Regular" or "Helvetica Neue"
+- Minimum font size: 12pt for print, 16px for digital
+
+Logo Usage:
+- Minimum clear space: Equal to height of "T" in logo on all sides
+- Never stretch, rotate, or alter logo proportions
+- Never place logo on busy backgrounds without white/dark overlay
+- Approved logo variations: Full color, white, black, horizontal, stacked
+
+---
+BRAND VOICE & TONE
+---
+
+Voice Characteristics:
+- Confident but not arrogant
+- Friendly but professional
+- Clear and jargon-free
+- Helpful and solution-oriented
+
+Tone Variations by Channel:
+- Customer Service: Empathetic, patient, solution-focused
+- Marketing: Energetic, benefit-driven, aspirational
+- Technical: Clear, educational, precise
+- Social Media: Conversational, responsive, authentic
+
+Language Guidelines:
+DO: Use "you" and "your" (customer-centric language)
+DO: Lead with benefits before features
+DO: Keep sentences short and scannable
+DON'T: Use telecom jargon without explanation
+DON'T: Make promises we can't keep
+DON'T: Use all caps (except for required legal text)
+
+---
+KEY MESSAGING PILLARS
+---
+
+1. Network Quality
+"America's most reliable 5G network" 
+- 99.9% uptime
+- Fastest average speeds in 95% of markets
+- Continuous network investment and expansion
+
+2. Value Proposition
+"Premium service without the premium price"
+- Transparent pricing, no hidden fees
+- Flexible plans for every budget
+- Best-in-class features included, not upsold
+
+3. Customer Experience
+"Support that's actually helpful"
+- 24/7 customer service
+- Average wait time under 2 minutes
+- 95% first-call resolution rate
+
+4. Innovation Leadership
+"5G and beyond"
+- First to deploy nationwide 5G
+- Partnerships with leading device manufacturers
+- Testing 6G technology today
+
+---
+CAMPAIGN TAG LINES (Approved)
+---
+
+Primary: "Stay Connected. Stay You."
+Secondary: "The Network That Works for You"
+5G-Specific: "5G That Actually Delivers"
+Value-Focused: "More Network. More Savings. More You."
+Holiday: "Give the Gift of Connection"
+
+---
+COMPLIANCE NOTES
+---
+
+All marketing materials must include:
+- Clear pricing with tax/fee disclosures
+- Terms and conditions for promotional offers
+- Required regulatory language for specific claims
+- Accessibility compliance (WCAG 2.1 AA minimum)
+
+Restricted Claims:
+- Do not claim "fastest" without current third-party verification
+- Do not claim "best coverage" without qualifying geography
+- Do not use competitor names in negative comparisons
+- Always substantiate technical performance claims
+
+---
+CONTACT
+---
+
+Brand Team: brand@telecom.com
+Marketing: marketing@telecom.com
+Legal Review: legal.marketing@telecom.com
+
+Last Updated: November 2024
+Next Review: March 2025

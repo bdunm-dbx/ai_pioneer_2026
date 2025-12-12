@@ -1,0 +1,81 @@
+Call ID: CALL-2024-002
+Date: 2024-11-18 09:15:00
+Duration: 12 minutes 20 seconds
+Agent ID: AGT-1845
+Customer ID: CUS-11234
+Call Type: Technical Support
+Resolution Status: Escalated
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning! This is Marcus from technical support. How can I assist you today?
+
+Customer: Hi Marcus, I'm having a really frustrating issue with my 5G service. My phone shows 5G bars, but my internet is incredibly slow. Like, slower than my old 4G was.
+
+Agent: I'm sorry you're experiencing that. Let's get this sorted out for you. Can I start by getting your phone number?
+
+Customer: It's 555-4567.
+
+Agent: Thank you. And what type of device are you using?
+
+Customer: iPhone 14 Pro. I just got it two months ago specifically for the 5G.
+
+Agent: Okay, let me check a few things. First, can you tell me where you're located right now?
+
+Customer: I'm in downtown Portland, near Pioneer Square.
+
+Agent: Perfect, we have excellent 5G coverage there. Let me run a quick diagnostic on your line... I'm showing your device is connected to our 5G network, but I notice your data throughput is quite low. Can you tell me what speeds you're experiencing?
+
+Customer: I just ran a speed test and got 2.3 Mbps download. That's ridiculous for 5G, right?
+
+Agent: That's definitely not right. Our 5G should be giving you 100-300 Mbps in that area. Let me check a few things. Have you tried toggling your airplane mode on and off?
+
+Customer: Yes, I've tried that multiple times. I've also restarted my phone twice today.
+
+Agent: Okay. Let me check your account settings... I see you're on our Unlimited Starter plan. I need to let you know that this plan includes data prioritization, which means during high-traffic times, your speeds may be reduced if the network is congested.
+
+Customer: Wait, what? I specifically signed up for 5G service! The sales rep never mentioned anything about throttling.
+
+Agent: I understand your frustration. The plan does include 5G access, but data prioritization can affect speeds during peak times. However, 2.3 Mbps seems unusually low even with prioritization. Let me check our network status in your area...
+
+Customer: This is not what I was promised. I'm paying $55 a month for this!
+
+Agent: I completely understand. Let me see what we can do. I'm checking our network map now... Okay, I do see there's some network maintenance happening in downtown Portland this week, which could be contributing to the slower speeds. But let me also look at your plan options.
+
+Customer: Network maintenance? How long has this been going on?
+
+Agent: The maintenance started Monday and is scheduled through Friday. We're upgrading cell tower equipment to improve capacity. However, this shouldn't cause speeds this low. I'd like to escalate this to our network engineering team to investigate if there's a specific issue with your service.
+
+Customer: Okay, but what about my plan? You said something about prioritization?
+
+Agent: Yes. Your current Unlimited Starter plan does include data prioritization. If you upgrade to our Unlimited Plus plan for $70 per month, you'd get 50GB of premium data before any prioritization, and generally faster speeds overall. But before you make that decision, I want our engineering team to verify there's not a technical issue on our end.
+
+Customer: I don't want to pay more when I can't even get the service I'm already paying for.
+
+Agent: That's completely fair. Here's what I'm going to do: I'm creating a priority ticket for our network engineering team to investigate your specific service. They'll reach out within 24 hours. I'm also adding a $20 credit to your account for the inconvenience. And I'll make a note that if the issue is on our end, we should discuss plan options or additional credits.
+
+Customer: Okay, that sounds better. Will they call me?
+
+Agent: Yes, you should receive a call from our advanced technical support team within 24 hours. They'll have all the details from this call. Is the best number to reach you at 555-4567?
+
+Customer: Yes, that's fine.
+
+Agent: Perfect. Is there anything else I can help you with right now?
+
+Customer: No, I just want this fixed. This is really impacting my work.
+
+Agent: I completely understand. We'll get this resolved for you. You should hear from our engineering team tomorrow. Thank you for your patience.
+
+Customer: Thanks, Marcus.
+
+---
+CALL SUMMARY:
+---
+Issue: Extremely slow 5G speeds (2.3 Mbps) despite being in strong coverage area
+Contributing Factors: Network maintenance, possible device/account provisioning issue, data prioritization on Starter plan
+Resolution: Escalated to network engineering, $20 account credit applied, 24-hour follow-up promised
+Customer Satisfaction: Medium (frustrated but willing to wait for escalation)
+Follow-up Required: Network engineering team to contact within 24 hours
+

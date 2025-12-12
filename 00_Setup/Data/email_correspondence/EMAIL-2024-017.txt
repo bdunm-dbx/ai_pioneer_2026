@@ -1,0 +1,92 @@
+Email ID: EMAIL-2024-017
+Date: 2024-12-02 10:15:00
+From: techsupport@telecom.com
+To: chris.morgan@email.com
+Subject: Re: Voicemail Not Sending Notifications
+Category: Technical Issue
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: chris.morgan@email.com
+Date: December 2, 2024 at 8:30 AM
+Subject: Voicemail Not Sending Notifications
+
+My iPhone 13 isn't notifying me when I get voicemails. I've missed several important calls because I didn't know anyone left a message.
+
+The voicemails are there when I check manually, but I'm not getting the notification badge or alerts.
+
+Phone: 555-8157
+
+Chris Morgan
+
+---
+
+From: techsupport@telecom.com
+Date: December 2, 2024 at 10:15 AM
+Subject: Re: Voicemail Not Sending Notifications
+
+Hi Chris,
+
+This is a common issue with iPhone voicemail notifications, and it's usually a quick fix!
+
+TROUBLESHOOTING STEPS:
+
+Step 1 - Check Notification Settings:
+- Settings > Phone > Notifications
+- Make sure "Allow Notifications" is ON
+- Check that "Badges" is enabled
+- Verify sound/banner settings are configured how you want
+
+Step 2 - Reset Voicemail Password:
+Sometimes corrupted voicemail settings cause this. Let's reset:
+- Dial *611 from your phone
+- Say "Reset voicemail password"
+- Follow prompts to create new password
+- Hang up and wait 2 minutes
+- Open Phone app > Voicemail tab
+
+Step 3 - Reset Network Settings (if Steps 1-2 don't work):
+- Settings > General > Transfer or Reset iPhone
+- Reset > Reset Network Settings
+- This won't delete your data, just network configs
+- Phone will restart
+
+Try Step 1 first and let me know if that fixes it. If not, we'll move to Step 2.
+
+Best,
+Angela Reyes
+Technical Support
+
+---
+
+From: chris.morgan@email.com
+Date: December 2, 2024 at 10:45 AM
+Subject: Re: Voicemail Not Sending Notifications
+
+Angela,
+
+Step 1 worked! The "Allow Notifications" was somehow turned off. I definitely didn't do that intentionally. 
+
+Just tested it - had my coworker call and leave a voicemail, and I got the notification immediately!
+
+Thanks!
+
+Chris
+
+---
+
+From: techsupport@telecom.com
+Date: December 2, 2024 at 11:00 AM
+Subject: Re: Voicemail Not Sending Notifications
+
+Awesome! Glad it was a simple fix.
+
+FYI - Sometimes iOS updates can reset notification preferences, so it's worth checking after every major iPhone update.
+
+Happy to help!
+
+Angela

@@ -1,0 +1,118 @@
+Email ID: EMAIL-2024-015
+Date: 2024-11-30 14:55:00
+From: porting@telecom.com
+To: steven.williams@email.com
+Subject: Re: Port-In Status Update
+Category: Account Setup
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: steven.williams@email.com
+Date: November 30, 2024 at 10:15 AM
+Subject: Port-In Status Update
+
+Hi,
+
+I submitted a request to port my number (555-7264) from AT&T to your service 3 days ago. I was told it would take 24-48 hours but it's still not complete. Can you check the status?
+
+I'm worried something went wrong.
+
+Steven Williams
+Order #: ORD-2024-89432
+
+---
+
+From: porting@telecom.com
+Date: November 30, 2024 at 11:30 AM
+Subject: Re: Port-In Status Update
+
+Hi Steven,
+
+Thank you for checking in. Let me look up your port status...
+
+PORT REQUEST DETAILS:
+- Number: 555-7264
+- From: AT&T
+- Submitted: November 27, 2024 at 2:15 PM
+- Current Status: PENDING - Awaiting info from AT&T
+
+THE ISSUE:
+AT&T is requesting additional verification. This happens occasionally when account information doesn't match exactly.
+
+WHAT WE NEED:
+The account number you provided (784932) doesn't match AT&T's records for that phone number. Can you double-check your AT&T account number? It's usually on your bill and is 12-15 digits long.
+
+Also verify:
+- Account PIN/Password
+- Full name on AT&T account
+- Billing ZIP code on AT&T account
+
+Once you confirm these details, the port usually completes within 2-4 hours.
+
+Sorry for the delay!
+
+Best,
+Carlos Ramirez
+Number Porting Team
+porting@telecom.com
+
+---
+
+From: steven.williams@email.com
+Date: November 30, 2024 at 1:20 PM
+Subject: Re: Port-In Status Update
+
+Carlos,
+
+I found my AT&T bill - you're right, the account number is different. The correct one is 784932157823.
+
+Account PIN: 4857
+Name on account: Steven P. Williams (I might have left out the middle initial before)
+ZIP: 90210
+
+Sorry for the confusion!
+
+Steven
+
+---
+
+From: porting@telecom.com
+Date: November 30, 2024 at 2:55 PM
+Subject: Re: Port-In Status Update
+
+Steven,
+
+Perfect! I've updated your port request with the correct information and resubmitted it to AT&T.
+
+NEW TIMELINE:
+Port should complete today between 4 PM - 8 PM. When it's done:
+1. Your AT&T service will automatically stop
+2. Your SIM card with us will activate (might need to restart your phone)
+3. You'll receive a text confirmation
+4. Your number is fully ported!
+
+I'll monitor this personally and email you once it's complete.
+
+Carlos
+
+---
+
+From: porting@telecom.com
+Date: November 30, 2024 at 6:25 PM
+Subject: Port Complete! Welcome to Our Network
+
+Steven,
+
+Great news! Your port completed at 6:18 PM.
+
+Your number (555-7264) is now fully active on our network. If you haven't already, restart your phone to ensure everything is connected.
+
+Welcome aboard! Your service starts immediately, and your first bill will be prorated from today through the end of your billing cycle.
+
+If you have any questions, don't hesitate to reach out.
+
+Carlos

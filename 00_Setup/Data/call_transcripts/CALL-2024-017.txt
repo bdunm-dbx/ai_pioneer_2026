@@ -1,0 +1,75 @@
+Call ID: CALL-2024-017
+Date: 2024-12-10 14:20:00
+Duration: 6 minutes 55 seconds
+Agent ID: AGT-1892
+Customer ID: CUS-10442
+Call Type: Smartwatch Activation
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling! This is Brandon. How can I help you today?
+
+Customer: Hi, I just got an Apple Watch for my birthday and I want to add it to my phone plan. Is that possible?
+
+Agent: Absolutely! Congratulations on your new Apple Watch. I can help you set that up. Can I get your phone number?
+
+Customer: 555-3691.
+
+Agent: Thank you. Is this an Apple Watch with cellular capabilities, or just GPS?
+
+Customer: It's the cellular one - Apple Watch Series 9.
+
+Agent: Perfect! To use the cellular features, you'll need to add a wearable line to your account. This allows your watch to make calls, send texts, and use data even when your phone isn't nearby. The service is $10 per month. Does that work for you?
+
+Customer: Yes, that's fine. How do I set it up?
+
+Agent: It's super easy. First, make sure your iPhone and Apple Watch are nearby and that your iPhone has the latest software update. Then open the Watch app on your iPhone.
+
+Customer: Okay, I have the Watch app open.
+
+Agent: Great! Tap "All Watches" at the top, then tap "Add Watch" if you haven't paired it yet. Have you already paired your watch with your phone?
+
+Customer: Yes, I paired it when I first got it, but I didn't set up cellular.
+
+Agent: No problem! In the Watch app, tap "My Watch" at the bottom, then tap "Cellular."
+
+Customer: I see it. It says "Set Up Cellular."
+
+Agent: Perfect! Tap on that. It will walk you through the activation process. When it asks you to choose a carrier, select our company name.
+
+Customer: Okay, it's connecting... Now it's asking me to sign in to my account.
+
+Agent: Go ahead and sign in with your account credentials - same username and password you use for your online account.
+
+Customer: Done... It says "Confirm Cellular Plan" and shows $10 per month.
+
+Agent: That's correct. Tap "Continue" or "Agree" to accept the terms.
+
+Customer: Okay... It says "Activating" with a progress bar... Done! It says "Cellular is set up."
+
+Agent: Excellent! Your Apple Watch now has its own cellular connection. It shares your phone number, so calls and texts to your number will ring on both your phone and watch.
+
+Customer: So I can leave my phone at home and still get calls on my watch?
+
+Agent: Exactly! Your watch works independently when it has a cellular connection. You can make calls, send texts, stream music, and use apps that need data. Just keep in mind that battery life is shorter when using cellular, so it's good to keep your phone nearby when possible.
+
+Customer: That's awesome! Do I need to do anything else?
+
+Agent: Nope, you're all set! The $10 wearable line charge will appear on your next bill. You can manage your watch's cellular settings anytime in the Watch app on your phone.
+
+Customer: Perfect! Thank you so much!
+
+Agent: You're welcome! Enjoy your new Apple Watch!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer wants to activate cellular service on new Apple Watch Series 9
+Resolution: Wearable line added ($10/month), cellular activation completed successfully
+Setup Process: Guided customer through Watch app cellular setup, shares phone number with iPhone
+Customer Satisfaction: High
+Follow-up Required: None
+

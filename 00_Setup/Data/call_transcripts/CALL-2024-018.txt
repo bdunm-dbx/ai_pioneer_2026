@@ -1,0 +1,76 @@
+Call ID: CALL-2024-018
+Date: 2024-12-11 11:15:00
+Duration: 8 minutes 40 seconds
+Agent ID: AGT-2534
+Customer ID: CUS-11678
+Call Type: Military Discount
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning! This is Stephanie. How may I assist you?
+
+Customer: Hi, I'm active duty military and I heard you offer a military discount. How do I get that applied to my account?
+
+Agent: Thank you for your service! Yes, we absolutely offer a military discount. I'd be happy to help you get that set up. Can I get your phone number?
+
+Customer: 555-9137.
+
+Agent: Thank you. Our military discount provides $15 off per month for active duty, veterans, National Guard, and Reserve members, as well as their families. Do you have documentation of your military service available?
+
+Customer: Yes, I have my military ID. What do you need from it?
+
+Agent: I'll need to verify your status through ID.me, which is a secure third-party verification service we use. You can do this online through your account, or I can send you a link via text message right now. Which would you prefer?
+
+Customer: Can you send me the text? That would be easier.
+
+Agent: Absolutely. I'm sending you a text message now with a secure link to ID.me... Sent! You should receive it in just a moment.
+
+Customer: Got it! Should I do this now while you're on the phone?
+
+Agent: Yes, that would be great! I'll stay on the line in case you have any questions.
+
+Customer: Okay, clicking the link... It's asking me to create an ID.me account or sign in. I don't have an account yet.
+
+Agent: No problem, just tap "Create Account" and follow the prompts. You'll need an email address and to create a password.
+
+Customer: Okay, doing that now... Now it's asking me to verify my military status. I can upload a photo of my CAC card, use a military email address, or connect to Defense Department records.
+
+Agent: The military email option is usually fastest if you have a .mil email address. Otherwise, uploading your CAC card photo works great too.
+
+Customer: I'll use my .mil email. Connecting now... It says "Verification Successful! You've been verified as Active Duty Military."
+
+Agent: Perfect! Now it should redirect you back to our website or show you a completion message.
+
+Customer: Yes, it says "Verification Complete. Your military discount has been applied to your account."
+
+Agent: Excellent! I can see on my end that the discount has been added. Your $15 monthly military discount will start with your next billing cycle on December 20th. Your monthly bill will go from $70 to $55.
+
+Customer: That's amazing! Does this discount stay forever?
+
+Agent: As long as you maintain eligible military status, yes! We verify status annually through ID.me, so you'll get a reminder email each year to re-verify. It's a quick process and ensures the discount continues.
+
+Customer: That's fantastic. One more question - does this discount apply to family plans too?
+
+Agent: Yes! If you have a family plan, the $15 discount applies to the entire account, not just one line. So you'd see even more savings if you add lines in the future.
+
+Customer: Perfect! Thank you so much for your help, Stephanie.
+
+Agent: You're very welcome, and thank you again for your service! Is there anything else I can help you with?
+
+Customer: No, that's everything. Thanks!
+
+Agent: Have a wonderful day!
+
+---
+CALL SUMMARY:
+---
+Issue: Active duty military customer requesting military discount
+Resolution: Military status verified via ID.me, $15/month discount applied to account
+Discount Details: $15 off monthly bill (permanent with annual reverification), applies to entire family plan
+Original Bill: $70/month, New Bill: $55/month
+Customer Satisfaction: High
+Follow-up Required: Annual reverification reminder (automated)
+

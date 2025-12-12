@@ -1,0 +1,75 @@
+Email ID: EMAIL-2024-002
+Date: 2024-11-16 14:55:00
+From: support@telecom.com
+To: rachel.thompson@email.com
+Subject: Re: Unlock Request for iPhone 12
+Thread ID: TH-45389
+Category: Device Support
+Priority: Normal
+Status: Resolved
+
+---
+EMAIL CHAIN:
+---
+
+From: rachel.thompson@email.com
+Date: November 16, 2024 at 2:15 PM
+Subject: Unlock Request for iPhone 12
+
+Hi,
+
+I've finished paying off my iPhone 12 and I'd like to have it unlocked so I can use it when I travel internationally. What's the process for unlocking my device?
+
+Phone number: 555-8934
+IMEI: 356892041234567
+
+Thanks,
+Rachel Thompson
+
+---
+
+From: support@telecom.com
+Date: November 16, 2024 at 2:55 PM
+Subject: Re: Unlock Request for iPhone 12
+
+Dear Rachel,
+
+Thank you for contacting us about unlocking your iPhone 12. Great news - I've reviewed your account and confirmed that your device meets all our unlocking requirements:
+
+✓ Device is fully paid off
+✓ Account is in good standing
+✓ Device has been active for more than 40 days
+✓ No pending insurance claims
+
+Your unlock request has been APPROVED and processed. Your iPhone 12 (IMEI: 356892041234567) will be unlocked within 24-48 hours.
+
+**What happens next:**
+1. You'll receive a confirmation email when the unlock is complete (usually within 24 hours)
+2. Connect your iPhone to iTunes/Finder or perform a network settings reset
+3. Your phone will then work with any compatible carrier's SIM card
+
+**To confirm the unlock:**
+- Go to Settings > General > About
+- Look for "Carrier Lock" - it should say "No SIM restrictions"
+
+If you have any issues after 48 hours, please reply to this email and we'll investigate further.
+
+Enjoy your travels!
+
+Best regards,
+Michael Rodriguez
+Technical Support Team
+Request #: UNL-2024-0916-789
+
+---
+
+From: rachel.thompson@email.com
+Date: November 17, 2024 at 9:30 AM
+Subject: Re: Unlock Request for iPhone 12
+
+Michael,
+
+Perfect! I just checked and it shows "No SIM restrictions" now. That was fast - thank you so much!
+
+Rachel
+

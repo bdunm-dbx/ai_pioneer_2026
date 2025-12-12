@@ -1,0 +1,65 @@
+Call ID: CALL-2024-008
+Date: 2024-12-01 09:25:00
+Duration: 5 minutes 20 seconds
+Agent ID: AGT-1923
+Customer ID: CUS-11445
+Call Type: International Roaming
+Resolution Status: Resolved
+
+---
+TRANSCRIPT:
+---
+
+Agent: Good morning! This is Carlos. How can I help you today?
+
+Customer: Hi Carlos, I'm traveling to Japan next week and I want to make sure my phone will work there. Do I need to do anything special?
+
+Agent: Great question! Let me help you get set up for international travel. Can I get your phone number?
+
+Customer: 555-6543.
+
+Agent: Thank you. Let me check your current plan... I see you're on our Unlimited Plus plan. Good news - that plan includes international features, but let me explain what's covered and what isn't.
+
+Customer: Okay, I'm listening.
+
+Agent: With your current plan, when you're in Japan, you'll have unlimited texting at no extra charge. Data is included but at 2G speeds, which is pretty slow. Phone calls are $0.25 per minute.
+
+Customer: 2G speeds? That's going to be really slow, right?
+
+Agent: Yes, 2G is quite slow - think early 2000s internet speeds. It's okay for basic messaging apps, but not great for maps, photos, or video. For a week-long trip to Japan, I'd recommend our International Day Pass.
+
+Customer: What's that?
+
+Agent: The International Day Pass is $10 per day, and it gives you full access to your regular plan features - so unlimited high-speed data, calls, and texts, just like you're at home. You're only charged for the days you actually use your phone abroad.
+
+Customer: So if I'm there for 7 days, that's $70?
+
+Agent: Exactly, but here's a tip - if you won't be using your phone every day, you could use it strategically. For example, use it on days when you really need maps and directions, and rely on hotel Wi-Fi other days. You're only charged on days when you make a call, send a text, or use data.
+
+Customer: That's smart. How do I add this?
+
+Agent: I can add it to your account right now, and it will automatically activate when you arrive in Japan. You'll get a text message when you land letting you know it's active.
+
+Customer: Perfect, let's do it.
+
+Agent: Done! The International Day Pass is now on your account. When you land in Japan, make sure your phone is set to allow data roaming, otherwise it won't connect. You'll get a welcome text with the details.
+
+Customer: Do I need to do anything else? Change any settings?
+
+Agent: Just make sure "Data Roaming" is turned on in your phone settings. Most phones will prompt you automatically when you arrive. Also, I recommend downloading offline maps for Japan before you leave, just as a backup.
+
+Customer: Great idea. Thanks so much, Carlos!
+
+Agent: You're welcome! Have a wonderful trip to Japan!
+
+Customer: Thank you!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer preparing for international travel to Japan
+Resolution: Added International Day Pass ($10/day) to account for high-speed data while abroad
+Education Provided: Explained difference between included features (2G data, limited calls) vs. Day Pass benefits
+Customer Satisfaction: High
+Follow-up Required: None - service auto-activates upon arrival in Japan
+

@@ -1,0 +1,93 @@
+Call ID: CALL-2024-010
+Date: 2024-12-03 16:20:00
+Duration: 13 minutes 40 seconds
+Agent ID: AGT-3109
+Customer ID: CUS-11892
+Call Type: Network Coverage Issue
+Resolution Status: Escalated
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling technical support. This is James. How can I help you?
+
+Customer: Hi James, I'm having terrible service at my home. I moved into a new house three weeks ago and I barely get one bar of signal. Calls drop constantly.
+
+Agent: I'm sorry you're experiencing that. Let's see what we can do to improve your coverage. Can I get your phone number and your new address?
+
+Customer: Phone is 555-4321. The new address is 1425 Oak Ridge Drive, Boulder, Colorado, 80302.
+
+Agent: Thank you. Let me check our coverage map for that address... I'm seeing that you're in an area that should have good 4G LTE coverage. Can you tell me more about what you're experiencing?
+
+Customer: Inside my house, I get maybe one bar, sometimes no signal at all. If I go outside, I might get two bars. I can't make calls reliably, and data is almost non-existent.
+
+Agent: Okay. What type of phone are you using?
+
+Customer: iPhone 14.
+
+Agent: Have you noticed this issue anywhere else besides your home, or is it specifically at this location?
+
+Customer: No, when I'm at work downtown or driving around town, service is fine. It's only at my house.
+
+Agent: That's helpful information. It sounds like this might be a coverage gap specific to your area. Let me check a few things. Boulder has some hilly terrain - is your house in a valley or surrounded by hills?
+
+Customer: Yes, actually. I'm at the base of a hill, and there are tall trees all around.
+
+Agent: That could definitely be contributing to the issue. The terrain and trees can block cell signals. Let me see what solutions we have available... Have you connected your phone to Wi-Fi at home?
+
+Customer: Yes, I have good internet service at the house.
+
+Agent: Perfect! The first solution I'd recommend is enabling Wi-Fi Calling on your iPhone. This allows you to make and receive calls over your Wi-Fi connection instead of the cellular network. Would you like me to walk you through setting that up?
+
+Customer: Yes, please. Will that really work?
+
+Agent: Absolutely. Wi-Fi Calling works just like regular calling - same phone number, same features - it just uses your internet connection instead of our towers. Let's set it up. Go to your Settings app.
+
+Customer: Okay, I'm there.
+
+Agent: Tap on "Phone," then look for "Wi-Fi Calling."
+
+Customer: I see it. It's currently off.
+
+Agent: Toggle it on. You might need to enter your address for emergency services.
+
+Customer: It's asking for an emergency address... Should I put my new home address?
+
+Agent: Yes, that's correct. This is so emergency services know where to find you if you call 911.
+
+Customer: Done. It says "Wi-Fi Calling on This iPhone is now enabled."
+
+Agent: Perfect! Now, as long as you're connected to your home Wi-Fi, you should be able to make and receive calls without any issues. Try making a test call now.
+
+Customer: Calling my wife... It's ringing, and the call quality is clear! Okay, this is way better!
+
+Agent: Excellent! That should solve most of your issues at home. However, I want to address the underlying coverage problem. I'm going to submit a network coverage ticket for your address. Our network engineering team will investigate whether we need to adjust any nearby towers or if there are other solutions.
+
+Customer: Like what other solutions?
+
+Agent: In some cases, we can provide a free signal booster - it's a device that amplifies the cellular signal in your home. But let me have engineering assess the area first. They'll contact you within 5-7 business days to discuss options.
+
+Customer: That sounds good. In the meantime, the Wi-Fi calling should work?
+
+Agent: Yes, exactly. As long as you're on your home Wi-Fi, you'll have full calling and texting capabilities. The only time you'll have issues is if you're outside and away from your Wi-Fi.
+
+Customer: That's a huge improvement already. Thank you, James!
+
+Agent: You're welcome! You'll hear from our network team within a week. Is there anything else I can help you with?
+
+Customer: No, that's all. Thanks again!
+
+Agent: Have a great day!
+
+---
+CALL SUMMARY:
+---
+Issue: Poor cellular coverage at customer's new home address (1-bar signal, dropped calls)
+Root Cause: Terrain/geography (base of hill, dense trees) blocking signal
+Immediate Solution: Enabled Wi-Fi Calling for full service over home internet
+Long-term Action: Submitted network coverage ticket to engineering team for site assessment
+Possible Solutions: Tower optimization or free signal booster device
+Customer Satisfaction: High (immediate fix provided)
+Follow-up Required: Network engineering to contact within 5-7 business days
+

@@ -1,0 +1,77 @@
+Call ID: CALL-2024-007
+Date: 2024-11-28 15:40:00
+Duration: 11 minutes 55 seconds
+Agent ID: AGT-2156
+Customer ID: CUS-10334
+Call Type: Cancellation Request
+Resolution Status: Retention Success
+
+---
+TRANSCRIPT:
+---
+
+Agent: Thank you for calling. This is Jennifer from customer care. How may I help you today?
+
+Customer: Hi, I need to cancel my service. I'm switching to another carrier.
+
+Agent: I'm sorry to hear you're thinking about leaving us. Before we proceed with cancellation, may I ask what's prompting this decision? We'd like to see if there's anything we can do to keep you as a customer.
+
+Customer: Honestly, it's the cost. I found a plan with another carrier that's $30 cheaper per month, and I just can't justify paying more right now with how tight money is.
+
+Agent: I completely understand - budgets are important. Can I get your account number so I can see what you're currently paying and what options might be available?
+
+Customer: Sure, it's 555-8765.
+
+Agent: Thank you. Let me pull up your account... I see you're on our Unlimited Premium plan at $85 per month for one line. You've been with us for three years - thank you for your loyalty. May I ask what plan the other carrier is offering?
+
+Customer: They're offering unlimited data for $55 per month.
+
+Agent: Okay, that is a significant difference. Let me see what I can do for you. Would you like to stay with us if we could match or beat that price?
+
+Customer: I mean, I haven't had problems with your service. I just need to save money.
+
+Agent: I appreciate your honesty. Let me check our retention offers for you... Okay, I have a few options. First, I can switch you to our Unlimited Basic plan, which is $60 per month. It's still unlimited data, just without some of the premium features like HD video streaming.
+
+Customer: What's the difference in features?
+
+Agent: The Basic plan has unlimited data, talk, and text, plus 5GB of mobile hotspot. Video streaming is limited to standard definition instead of HD, and during times of network congestion, you might experience slower data speeds compared to premium customers. But for most day-to-day use, it works great.
+
+Customer: That's still $5 more than what the other carrier is offering.
+
+Agent: You're right. Let me see if I can do better... Because you've been such a loyal customer for three years, I can offer you a special retention discount. I can keep you on your current Unlimited Premium plan - with all the premium features you're used to - for $55 per month. That's a $30 discount.
+
+Customer: Wait, really? I can keep everything I have now for $55?
+
+Agent: Yes! This is a loyalty discount we can offer valued customers. You keep HD streaming, 30GB of hotspot, international texting, and priority data. The discount is good for 12 months.
+
+Customer: What happens after 12 months?
+
+Agent: After 12 months, the price would return to the standard rate unless we have other promotions available at that time. But you can always call us to discuss your options before that happens.
+
+Customer: That's actually a really good deal. So I wouldn't have to switch carriers, port my number, or anything?
+
+Agent: Nope! I can apply this discount right now, and it will show up on your next bill. Everything stays exactly the same - same number, same service, just a better price.
+
+Customer: Okay, let's do it. I wasn't really looking forward to switching anyway.
+
+Agent: Perfect! I'm applying the loyalty discount now... Done! Your new rate of $55 per month starts immediately and will be reflected on your December bill. You'll also see the discount noted in your online account.
+
+Customer: Awesome. Thank you so much for working with me on this, Jennifer.
+
+Agent: You're very welcome! We really value your business, and I'm glad we could find a solution that works for you. Is there anything else I can help you with today?
+
+Customer: No, that's it. Thanks again!
+
+Agent: Thank you for staying with us! Have a wonderful day!
+
+---
+CALL SUMMARY:
+---
+Issue: Customer wanting to cancel due to pricing ($30/month savings with competitor)
+Resolution: Retained customer with $30 loyalty discount on Premium plan ($85 to $55/month)
+Offer Details: 12-month promotional rate maintaining all premium features
+Original Plan: Unlimited Premium ($85/month)
+New Rate: $55/month (12-month retention offer)
+Customer Satisfaction: High
+Follow-up Required: None - review pricing options before discount expires in 12 months
+
