@@ -44,14 +44,16 @@ user_email = w.current_user.me().display_name
 username = user_email.split("@")[0]
 
 # Catalog and schema have been automatically created thanks to lab environment
-catalog_name = f"{username}"
-schema_name = "agents"
+catalog_name = "ai_pioneer"
+schema_name = "lab_data"
 
 # Allows us to reference these values when creating SQL/Python functions
 dbutils.widgets.text("catalog_name", defaultValue=catalog_name, label="Catalog Name")
 dbutils.widgets.text("schema_name", defaultValue=schema_name, label="Schema Name")
 
-spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
+spark.sql(
+    f"CREATE SCHEMA IF NOT EXISTS `{catalog_name}`.`{schema_name}`"
+)
 
 # COMMAND ----------
 
@@ -78,7 +80,7 @@ spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
 # MAGIC   issue_category, 
 # MAGIC   issue_description, 
 # MAGIC   name
-# MAGIC FROM agents_lab.product.cust_service_data 
+# MAGIC FROM ai_pioneer.lab_data.cust_service_data 
 # MAGIC -- Order the results by the interaction date and time in descending order
 # MAGIC ORDER BY date_time DESC
 # MAGIC -- Limit the results to the most recent interaction
@@ -98,7 +100,7 @@ spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
 # MAGIC     issue_category,
 # MAGIC     issue_description,
 # MAGIC     name
-# MAGIC   FROM agents_lab.product.cust_service_data
+# MAGIC   FROM ai_pioneer.lab_data.cust_service_data
 # MAGIC   ORDER BY date_time DESC
 # MAGIC   LIMIT 1
 # MAGIC );
@@ -131,15 +133,15 @@ spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
 # MAGIC   policy_details   STRING,
 # MAGIC   last_updated     DATE
 # MAGIC )
-# MAGIC COMMENT 'Returns the details of the Return Policy'
+# MAGIC COMMENT 'Returns the details of the Exchange & Return Policy'
 # MAGIC LANGUAGE SQL
 # MAGIC RETURN (
 # MAGIC   SELECT
 # MAGIC     policy,
 # MAGIC     policy_details,
 # MAGIC     last_updated
-# MAGIC   FROM agents_lab.product.policies
-# MAGIC   WHERE policy = 'Return Policy'
+# MAGIC   FROM ai_pioneer.lab_data.policies
+# MAGIC   WHERE policy = 'Device Return and Exchange Policy'
 # MAGIC   LIMIT 1
 # MAGIC );
 
@@ -172,7 +174,7 @@ spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
 # MAGIC LANGUAGE SQL
 # MAGIC RETURN 
 # MAGIC SELECT count(*) as returns_last_12_months, issue_category, now() as todays_date
-# MAGIC FROM agents_lab.product.cust_service_data 
+# MAGIC FROM ai_pioneer.lab_data.cust_service_data 
 # MAGIC WHERE name = user_name 
 # MAGIC GROUP BY issue_category;
 
@@ -180,7 +182,7 @@ spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalog_name}.{schema_name}")
 
 # DBTITLE 1,Test function that retrieves order history based on userID
 # MAGIC %sql
-# MAGIC select * from IDENTIFIER(:catalog_name || '.' || :schema_name || '.get_order_history')('Nicolas Pelaez')
+# MAGIC select * from IDENTIFIER(:catalog_name || '.' || :schema_name || '.get_order_history')('Michelle Martin')
 
 # COMMAND ----------
 
@@ -221,11 +223,11 @@ from unitycatalog.ai.core.databricks import DatabricksFunctionClient
 client = DatabricksFunctionClient()
 
 # this will deploy the tool to UC, automatically setting the metadata in UC based on the tool's docstring & typing hints
-#python_tool_uc_info = client.create_python_function(func=get_todays_date, catalog=catalog_name, schema=schema_name, replace=True)
+python_tool_uc_info = client.create_python_function(func=get_todays_date, catalog=catalog_name, schema=schema_name, replace=True)
 
 # the tool will deploy to a function in UC called `{catalog}.{schema}.{func}` where {func} is the name of the function
 # Print the deployed Unity Catalog function name
-#print(f"Deployed Unity Catalog function name: {python_tool_uc_info.full_name}")
+print(f"Deployed Unity Catalog function name: {python_tool_uc_info.full_name}")
 
 # COMMAND ----------
 
