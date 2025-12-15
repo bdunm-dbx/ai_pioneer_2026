@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "data_sources": {
+    "tables": [
+      {
+        "identifier": "ai_pioneer.lab_data.billing",
+        "column_configs": [
+          {
+            "column_name": "additional_charges",
+            "get_example_values": true
+          },
+          {
+            "column_name": "base_amount",
+            "get_example_values": true
+          },
+          {
+            "column_name": "billing_cycle",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "billing_date",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "billing_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "credits_applied",
+            "get_example_values": true
+          },
+          {
+            "column_name": "customer_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "due_date",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "late_fee",
+            "get_example_values": true
+          },
+          {
+            "column_name": "payment_amount",
+            "get_example_values": true
+          },
+          {
+            "column_name": "payment_date",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "payment_method",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "plan_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "promo_code",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "status",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "subscription_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "tax_amount",
+            "get_example_values": true
+          },
+          {
+            "column_name": "total_amount",
+            "get_example_values": true
+          }
+        ]
+      },
+      {
+        "identifier": "ai_pioneer.lab_data.customers",
+        "column_configs": [
+          {
+            "column_name": "acquisition_channel",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "autopay_enrolled",
+            "get_example_values": true
+          },
+          {
+            "column_name": "churn_risk_score",
+            "get_example_values": true
+          },
+          {
+            "column_name": "city",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "current_plan_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "customer_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "customer_segment",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "customer_status",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "customer_value_score",
+            "get_example_values": true
+          },
+          {
+            "column_name": "device_id",
+            "get_example_values": true
+          },
+          {
+            "column_name": "loyalty_tier",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "num_lines",
+            "get_example_values": true
+          },
+          {
+            "column_name": "paperless_billing",
+            "get_example_values": true
+          },
+          {
+            "column_name": "preferred_contact_method",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "registration_date",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          },
+          {
+            "column_name": "satisfaction_score",
+            "get_example_values": true
+          },
+          {
+            "column_name": "state",
+            "get_example_values": true,
+            "build_value_dictionary": true
+          }
+        ]
+      }
+    ]
+  },
+  "instructions": {
+    "text_instructions": [
+      {
+        "id": "01f0d9ffebf71a1497f00746e29b60d8",
+        "content": [
+          "## **[SPACE METADATA]**\n",
+          "**Purpose**: Provide information on billing and customer details.\n",
+          "**Scope**: `billing` table which holds payment and more detailed billing information by date and customer as well as `customer` table containing dimensional information for each customer.\n",
+          "\n",
+          "## [CORE INSTRUCTION PRINCIPLES]\n",
+          "- Always using billing_date for time-based questions\n",
+          "- The base_amount + additional_charges + tax_amount = total_amount which constitutes the full bill to a customer\n",
+          "- credits_applied and late_fee will not be directly applied to payment_amount\n",
+          "\n",
+          "## **[RESPONSE STANDARDS]**\n",
+          "1. **Required Fields**: Always using billing_date for time-based questions.\n",
+          "2. **Format Rules**: Always format dates as YYYY-MM-DD and dollar amounts as $0.00.\n",
+          "3. **Error Handling**: If an error is encountered or more information is required, respond \"More information is required to answer this question.\""
+        ]
+      }
+    ],
+    "join_specs": [
+      {
+        "id": "01f0d9fe8c711c01adcb979f95190a54",
+        "left": {
+          "identifier": "ai_pioneer.lab_data.billing",
+          "alias": "billing"
+        },
+        "right": {
+          "identifier": "ai_pioneer.lab_data.customers",
+          "alias": "customers"
+        },
+        "sql": [
+          "`billing`.`customer_id` = `customers`.`customer_id`",
+          "--rt=FROM_RELATIONSHIP_TYPE_MANY_TO_ONE--"
+        ],
+        "instruction": [
+          "Use this join to connect the billing table with the customer table when there are questions around a specific customer's billing and payments."
+        ]
+      }
+    ]
+  },
+  "benchmarks": {
+    "questions": [
+      {
+        "id": "01f0da001ff6196f82e0bbaf466ebdae",
+        "question": [
+          "What customer segment results in the highest average bill?"
+        ],
+        "answer": [
+          {
+            "format": "SQL",
+            "content": [
+              "SELECT\n",
+              "  customers.customer_segment,\n",
+              "  AVG(billing.total_amount) AS avg_bill\n",
+              "FROM\n",
+              "  ai_pioneer.lab_data.billing AS billing\n",
+              "    JOIN ai_pioneer.lab_data.customers AS customers\n",
+              "      ON billing.customer_id = customers.customer_id\n",
+              "WHERE\n",
+              "  customers.customer_segment IS NOT NULL\n",
+              "  AND billing.total_amount IS NOT NULL\n",
+              "GROUP BY\n",
+              "  customers.customer_segment\n",
+              "ORDER BY\n",
+              "  avg_bill DESC\n",
+              "LIMIT 1"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01f0da000253108bb78f900482935418",
+        "question": [
+          "What is the average total bill?"
+        ],
+        "answer": [
+          {
+            "format": "SQL",
+            "content": [
+              "SELECT\n",
+              "  ROUND(AVG(`total_amount`), 2) AS avg_total_bill\n",
+              "FROM\n",
+              "  `ai_pioneer`.`lab_data`.`billing`\n",
+              "WHERE\n",
+              "  `total_amount` IS NOT NULL;"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
