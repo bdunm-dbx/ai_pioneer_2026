@@ -1,4 +1,6 @@
-# Workshop: MLflow Evaluations for GenAI on Databricks
+# Hands-On Lab: Building Agent Systems with Databricks
+
+## MLflow Evaluations for GenAI Agents on Databricks
 
 > **Audience**: Data Scientists, ML Engineers, and Platform Engineers
 >
