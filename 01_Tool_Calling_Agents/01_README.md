@@ -1,6 +1,6 @@
 # Hands-On Lab: Building Agent Systems with Databricks
 
-## Part 1 - Architect Your First Agent
+## Architect Your First Agent with UC Functions
 Follow the notebook 01_Tool_Calling_Agents/01_Create_Tools to see how Unity Catalog functions can provide helpful, business-tuned "tools" to LLM. This is the simplest example of agentic tools that can be used to craft your agent systems. Follow instructions in the notebook to create functions and then put them to practice in the AI Playground.
 
 ---

@@ -1,10 +1,17 @@
-# Agent Bricks Lab: Build, Orchestrate, and Improve Multi-Agent Systems
+# Hands-On Lab: Building Agent Systems with Databricks
 
-In this lab, you’ll learn how to create and refine AI agents using **Databricks Agent Bricks**. You’ll start by building a **Knowledge Assistant** grounded in company product docs and historical support tickets, then expand it with a **Genie-powered structured data agent**. Finally, you’ll orchestrate them together with a **Multi-Agent Supervisor** and guide the system to produce better, user-friendly responses.
+## Agent Bricks Lab: Build, Orchestrate, and Improve Multi-Agent Systems
+
+In this lab, you’ll learn how to create and refine AI agents using **Databricks Agent Bricks**. If you are attending the proctored training, several of these agentic components have been pre-created so you can focus on the **Multi-Agent Supervisor**. Read Parts 1 & 2 to gain context of the full agentic solution, but please proceed to ⭐⭐Part 3⭐⭐.
+
+*For those running this lab on your own or if you'd like to learn more about Knowledge Assistants and Genie, you can start by building a **Knowledge Assistant** grounded in company product docs and historical support tickets, then expand it with a **Genie-powered structured data agent**. Finally, you’ll orchestrate them together with a **Multi-Agent Supervisor** and guide the system to produce better, user-friendly responses.*
 
 ---
 
-## Part 1: Build Your First Knowledge Assistant  
+## Part 1: (OPTIONAL) Build Your First Knowledge Assistant
+**THIS HAS BEEN PRE-CREATED FOR THE PROCTORED TRAINING** - Please use the `AI_Pioneer_TechnicalSupport` Knowledge Assistant Agent Brick. This serves as a Customer Service/Technical Support Agent which has access to our Telecom company's knowledge base and previous support tickets.
+
+---
 
 ### 1.1 Create a Vector Search Index  
 - **Why Vector Search?**  
@@ -14,23 +21,28 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
     - **Continuous updates** (for dynamic sources like support tickets).  
 - **Demo:** Indexes are pre-built for this lab, but you’ll see how easy it is to create one.
 
-### 1.2 Build the Knowledge Assistant Agent  
+### 1.2 Build the Knowledge Assistant Agent
 - **Navigate to “Agents”** in the UI.  
 - **Create a new Knowledge Assistant** using the two pre-built vector search indices:  
   - **Knowledge Base** – Company details, FAQs, policies, and procedures.  
   - **Support Tickets** – Historical tickets and their resolutions.  
+  - You can also explore creating a Knowledge Assistant off of raw text data where it handles the embedding for you.
 - **Example setup:**  
-  - **Name:** `[your_initials]-BricksLab-TechnicalSupport`  
+  - **Name:** `[your_initials]_AI_Pioneer_TechnicalSupport`
+    - **For those attending the proctored training, use the existing `AI_Pioneer_TechnicalSupport` agent.**
   - **Description:** Provides telco product support using company docs and historical tickets.  
 
 ### 1.3 Test the Knowledge Assistant  
 - **Sample Question:** *How do I know if my 5G is working?*  
 - Observe the verbose answer with citations and traces.  
-- Explore how the assistant grounds responses in living company data.  
+- Explore how the assistant grounds responses in living, bespoke company data.
 
 ---
 
-## Part 2: Expand with Genie for Structured Data  
+## Part 2: (OPTIONAL) Expand with Genie for Structured Data
+**THIS HAS BEEN PRE-CREATED FOR THE PROCTORED TRAINING** - Please use the existing `AI Pioneer Customer Billing Genie Space`. This serves as a Genie Space (text-to-SQL querying) which has access to our Telecom company's billing and customer operational information.
+
+---
 
 ### 2.1 Query Structured Data with Genie  
 - **Genie spaces** allow natural language queries over structured data (SQL tables).  
@@ -41,27 +53,40 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
 
 ### 2.2 Treat Genie as an Agent  
 - Genie rooms can be registered as agents, enabling them to participate in multi-agent workflows.  
-- Use Genie when customer-specific or billing data is required.  
+- Use Genie when customer-specific or billing data is required.
 
 ---
 
-## Part 3: Orchestrate with a Multi-Agent Supervisor  
+## Part 3: Orchestrate with a Multi-Agent Supervisor
+⭐⭐Start here for the proctored traing!⭐⭐
 
 ### 3.1 Create a Multi-Agent Supervisor (MAS)  
-- Combines multiple agents to intelligently route queries.  
+- Combines multiple agents (access to multiple disparate tools) to intelligently route queries coming from end users.
+- **Navigate to “Agents”** in the UI on the left-hand pane under "AI/ML". 
+- **Create a new Multi-Agent Supervisor** using existing agentic tools: 
 - **Setup:**  
-  - **MAS Name:** `[your_initials]-BricksLab-MultiAgent`  
-  - **Description:** Provides telco support across both product and billing questions.  
-  - **Add Agents:**  
-    - Genie Agent → Billing and customer data.  
-    - Knowledge Assistant → Product and support documentation.  
+  - **MAS Name:** `[your_initials]_AI_Pioneer_MultiAgentSupervisor`  
+  - **Description:** Provides telecom support across both product and billing questions.  
+  - **Configure Agents:**  
+    - Genie Space Agent
+      - `AI Pioneer Customer Billing Genie Space`
+      - Name: Customer Billing Genie Space
+      - Description: Billing and customer operational data.
+    - Agent Endpoint Knowledge Assistant
+      - `AI_Pioneer_TechnicalSupport`
+      - Name: Technical Support
+      - Description: Product and technical support documentation.
+    - (OPTIONAL) UC Functions → Lookup and reference information created in the first lab.
+  - **Provide Instructions under "Optional":**
+    - You will provide support for a Telecom company across product and billing questions. Use the "Customer Billing Genie Space" to answer operational questions around customer engagement and billing. Use the "Technical Support" agent to answer support, knowledge assistance, product help, and troubleshooting questions. Answer in a professional and concise tone.
+    - *Feel free to adjust and experiment with instructions!*
 
 ### 3.2 Test the MAS  
 - **Billing Question:** *Why did my bill go up this month?*  
   - Add context: *Assume user ID = `CUS-10001`, date = June 2025*.  
   - MAS should route query to Genie for customer-specific data.  
 - **Support Question:** *My phone is getting hot — what does hotspot mean, and how do I turn it off?*  
-  - MAS routes to Knowledge Assistant for product guidance.  
+  - MAS routes to Knowledge Assistant for product guidance. 
 
 ---
 
@@ -69,7 +94,7 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
 
 ### 4.1 Identify Response Issues  
 - Some answers may be too verbose or technical for end users.  
-- Example: The hotspot explanation may be correct but overly long.
+- *Example:* The hotspot explanation may be correct but overly long.  
 
 ### 4.2 Provide Feedback via Labeling Session  
 - Click **“Improve Quality”** on the agent.  
@@ -80,16 +105,15 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
 
 ### 4.3 Re-test the Agent  
 - Verify concise responses are now produced.  
-- Observe how natural language feedback guides behavior without coding.  
+- Observe how natural language feedback guides behavior without coding.
+- Come up with and ask additional questions and provide natural language feedback to engage with the supervisory agent. Experiment with adding/removing tools. 
 
 ---
 
-## Next Steps  
+## Next Steps In Getting To Production
 - **Governance & Permissions:** Use Unity Catalog to control agent access on behalf of users.  
 - **Real-World Extension:** Continuously stream support tickets into your knowledge base.  
 - **Multi-Agent Patterns:** Add more specialized agents (e.g., troubleshooting, recommendations).  
 - **Production Deployment:** Register agents, monitor with MLflow, and integrate with apps or support portals.  
 
----
-
-🎉 Congratulations! You’ve built a **multi-agent system with Agent Bricks** that combines structured and unstructured data, routes intelligently, and adapts with user feedback. Time to add *“Agent Bricks Master”* to your LinkedIn!  
+🎉 Congratulations! You’ve built a **multi-agent system with Agent Bricks** that combines structured and unstructured data, routes intelligently, and adapts with user feedback. 
