@@ -56,9 +56,8 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
 - Use Genie when customer-specific or billing data is required.
 
 ---
-
 ## Part 3: Orchestrate with a Multi-Agent Supervisor
-⭐⭐Start here for the proctored traing!⭐⭐
+⭐⭐Start here for the proctored training!⭐⭐
 
 ### 3.1 Create a Multi-Agent Supervisor (MAS)  
 - Combines multiple agents (access to multiple disparate tools) to intelligently route queries coming from end users.
@@ -70,43 +69,51 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
   - **Configure Agents:**  
     - Genie Space Agent
       - `AI Pioneer Customer Billing Genie Space`
-      - Name: Customer Billing Genie Space
-      - Description: Billing and customer operational data.
+      - Feel free to adjust the description.
     - Agent Endpoint Knowledge Assistant
-      - `AI_Pioneer_TechnicalSupport`
-      - Name: Technical Support
-      - Description: Product and technical support documentation.
+      - `AI_Pioneer_TechnicalSupport` - The agent endpoint will begin with 'ka-', and your proctors will confirm which to use.
+      - Feel free to adjust the description.
     - (OPTIONAL) UC Functions → Lookup and reference information created in the first lab.
   - **Provide Instructions under "Optional":**
     - You will provide support for a Telecom company across product and billing questions. Use the "Customer Billing Genie Space" to answer operational questions around customer engagement and billing. Use the "Technical Support" agent to answer support, knowledge assistance, product help, and troubleshooting questions. Answer in a professional and concise tone.
     - *Feel free to adjust and experiment with instructions!*
 
+![Creation of Multi-Agent Supervisor](./_images/MAS Creation.png)
+
 ### 3.2 Test the MAS  
 - **Billing Question:** *Why did my bill go up this month?*  
-  - Add context: *Assume user ID = `CUS-10001`, date = June 2025*.  
+  - Add context: *Assume customer ID = `CUS-10001`, date = June 2025*.  
   - MAS should route query to Genie for customer-specific data.  
-- **Support Question:** *My phone is getting hot — what does hotspot mean, and how do I turn it off?*  
-  - MAS routes to Knowledge Assistant for product guidance. 
+- **Support Question:** *My phone is getting hot - what does hotspot mean, and how do I turn it off?*  
+  - MAS routes to Knowledge Assistant for product guidance.
+- Try in AI Playground like we did in the first part of the lab!
+
 
 ---
-
-## Part 4: Improve Quality with Feedback  
+## Part 4: Improve Quality with Feedback
+**It will take ~15 minutes for label examples to be generated from creation in order to update and improve your agent. This is a good time to take a break, look at the existing Knowledge Assistant Agent and Genie Space Agent, and/or ask the proctors questions. Once examples are generated, you'll be able to test and improve your MAS!**
 
 ### 4.1 Identify Response Issues  
-- Some answers may be too verbose or technical for end users.  
-- *Example:* The hotspot explanation may be correct but overly long.  
+- We need to supply the Agent with questions and guidelines to evaluate it on and give it directions of how/where to improve. We'll keep it simple by adding our own questions, but you can also import existing list of questions.
+- For our example, some answers may be too verbose or technical for end users. *Example: The hotspot explanation may be correct but overly long.*
 
 ### 4.2 Provide Feedback via Labeling Session  
-- Click **“Improve Quality”** on the agent.  
-- Add the question: *“What does hotspot mean and how do I turn it off?”*  
-- Open labeling session → Leave feedback:  
-  - *“Keep the response very short, two sentences max.”*  
-- Save feedback and merge changes into the agent.  
+- Click **“Examples”** on the agent header to move off the **"Build"** UI.
+- Add the question: *“My phone is getting hot — what does hotspot mean, and how do I turn it off?”*
+![Creation of Multi-Agent Supervisor](./_images/Add Question.png)
+- Next, open a labeling session by **"Start labeling session"** → **"Open labeling session"** to launch. This will launch the **"Review App"** which is an inbuilt tool designed to collect feedback and expectations on Agent task completion. The purpose of a labeling session is to run your agent against baseline questions, evaluate them, and collect feedback which, in turn, improves the agent.
+![Creation of Multi-Agent Supervisor](./_images/Review App.png)
+  - Add input *“Keep the response very short and concise, focus on pertinent details.”* and then Save.
+  - If you'd like, you can add additional questions and you'll see them pop up in the Review App, and you can provide feedback. Or you can provide different Guidelines to see the impact.
+- Once complete providing feedback to the example questions, go back to your Agent and "Merge" feedback which completes the labeling session and pushes the feedback to the MAS to improve.
+![Creation of Multi-Agent Supervisor](./_images/Merge Feedback.png)
 
 ### 4.3 Re-test the Agent  
-- Verify concise responses are now produced.  
+- Verify concise responses are now produced by re-asking the question either in AI Playground of the Build screen.
 - Observe how natural language feedback guides behavior without coding.
-- Come up with and ask additional questions and provide natural language feedback to engage with the supervisory agent. Experiment with adding/removing tools. 
+- Come up with and ask additional questions and provide natural language feedback to engage with the supervisory agent. Experiment with adding/removing tools as well to see how effective the stochastic nature is.
+
+You can find more documentation here: https://docs.databricks.com/aws/en/generative-ai/agent-bricks/multi-agent-supervisor#what-is-agent-bricks-multi-agent-supervisor
 
 ---
 
@@ -116,4 +123,4 @@ In this lab, you’ll learn how to create and refine AI agents using **Databrick
 - **Multi-Agent Patterns:** Add more specialized agents (e.g., troubleshooting, recommendations).  
 - **Production Deployment:** Register agents, monitor with MLflow, and integrate with apps or support portals.  
 
-🎉 Congratulations! You’ve built a **multi-agent system with Agent Bricks** that combines structured and unstructured data, routes intelligently, and adapts with user feedback. 
+🎉 Congratulations! You’ve built a **Multi-Agent system with Agent Bricks** that combines structured and unstructured data, routes intelligently, and adapts with user feedback. 
